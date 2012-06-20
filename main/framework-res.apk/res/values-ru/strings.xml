@@ -921,7 +921,7 @@
     <string name="unlock">Unlock</string>
     <string name="pin">PIN</string>
     <string name="puk">PUK</string>
-    <string name="calling">Call in progress</string>
+    <string name="calling">Посылка вызова</string>
     <string name="enter_pin_tips">Введите PIN, осталось попыток: 3</string>
     <string name="enter_puk_tips">Введите PUK, осталось попыток: 10</string>
     <string name="enter_pin_times">Неверный PIN, осталось попыток: %d</string>
