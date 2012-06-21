@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Графический интерфейс системы</string>
+    <string name="status_bar_clear_all_button">Очистить</string>
+    <string name="status_bar_no_notifications_title">Нет уведомлений</string>
+    <string name="status_bar_ongoing_events_title">Текущие</string>
+    <string name="status_bar_latest_events_title">Уведомления</string>
+    <string name="battery_low_title">Подключите зарядное устройство</string>
+    <string name="battery_low_subtitle">Батарея разряжена:</string>
+    <string name="battery_low_percent_format">Осталось: %d%%</string>
+    <string name="battery_low_why">Расход заряда батареи</string>
+    <string name="meizu_label">Meizu</string>
+    <string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуару?</string>
+    <string name="usb_device_confirm_prompt">Запускать %1$s при подключении этого USB-устройства?</string>
+    <string name="usb_accessory_confirm_prompt">Запускать %1$s при подключении этого USB-аксессуара?</string>
+    <string name="usb_accessory_uri_prompt">Установленные приложения не поддерживают этот USB-аксессуар. Подробнее о нем читайте здесь: %1$s.</string>
+    <string name="title_usb_accessory">USB-устройство</string>
+    <string name="label_view">Просмотр</string>
+    <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
+</resources>

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_минут_labels">
+        <item>Нет</item>
+        <item>за 1 минуту</item>
+        <item>за 5 минут</item>
+        <item>за 10 минут</item>
+        <item>за 15 минут</item>
+        <item>за 20 минут</item>
+        <item>за 30 минут</item>
+        <item>за 45 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 12 часов</item>
+        <item>за 24 часа</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>за 1 минуту</item>
+        <item>за 5 минут</item>
+        <item>за 10 минут</item>
+        <item>за 15 минут</item>
+        <item>за 20 минут</item>
+        <item>за 30 минут</item>
+        <item>за 45 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 12 часов</item>
+        <item>за 24 часа</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Выкл.</item>
+        <item>Оповещение</item>
+        <item>Уведомление в строке состояния</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Закрытое</item>
+        <item>Для всех</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Нет ответа)</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только в этот раз</item>
+        <item>Все мероприятия в серии</item>
+    </string-array>
+    <string-array name="repeat_select_labels">
+        <item>Однократноре мероприятие</item>
+        <item>Ежедневно</item>
+        <item>С понедельника по пятницу</item>
+        <item>Раз в неделю</item>
+        <item>Ежемесячно</item>
+        <item>Ежегодно</item>
+    </string-array>
+    <string-array name="chinese_nonhli_riqi">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="chinese_nonhli_yuefen">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="chinese_nonhli_jieqi">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="yuefen">
+        <item></item>
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weekarr1">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="festival_calendar">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="lunar_calendar">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0015">false</item>
+</resources>

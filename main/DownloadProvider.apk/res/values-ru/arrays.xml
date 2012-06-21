@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_default_folders">
+        <item>Фото</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Архивы</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="download_default_paths">
+        <item>/Photo/download</item>
+        <item>/Music/download</item>
+        <item>/Video/download</item>
+        <item>/download</item>
+        <item>/download</item>
+    </string-array>
+</resources>

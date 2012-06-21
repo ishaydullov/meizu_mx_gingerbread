@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>1 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>15 мин.</item>
+        <item>20 мин.</item>
+        <item>30 мин.</item>
+        <item>45 мин.</item>
+        <item>1 ч.</item>
+        <item>2 ч.</item>
+        <item>3 ч.</item>
+        <item>12 ч.</item>
+        <item>24 ч.</item>
+        <item>2 д.</item>
+        <item>1 нед.</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Выкл.</item>
+        <item>Оповещение</item>
+        <item>Уведомление в строке состояния</item>
+    </string-array>
+</resources>

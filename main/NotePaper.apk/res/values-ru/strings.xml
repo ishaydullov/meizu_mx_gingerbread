@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блокнот</string>
+    <string name="live_folder_name">Блокнот</string>
+    <string name="menu_share">Отправить</string>
+    <string name="menu_insert">Добавить заметку</string>
+    <string name="error_message">Сбой загрузки заметок</string>
+    <string name="save">Сохранить</string>
+    <string name="del_message">Удалить эту заметку?</string>
+    <string name="del_selected_message">Удалить выбранные заметки?</string>
+    <string name="save_message">Сохранить изменения?</string>
+    <string name="failed">Ошибка</string>
+    <string name="failed_message">Сбой сохранения заметки</string>
+    <string name="finish">Готово</string>
+    <string name="title_share">Отправить</string>
+    <string name="new_notepaper">Новая заметка</string>
+    <string name="deleting">Удаление... Подождите.</string>
+</resources>

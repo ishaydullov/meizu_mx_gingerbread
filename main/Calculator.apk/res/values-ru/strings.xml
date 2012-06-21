@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error">Ошибка</string>
+    <string name="copy">Копировать</string>
+    <string name="paste">Вставить</string>
+</resources>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Будильник</string>
+    <string name="add_alarm">Добавить будильник</string>
+    <string name="delete_alarm">Удалить будильник</string>
+    <string name="enable_alarm">Включить будильник</string>
+    <string name="disable_alarm">Отключить будильник</string>
+    <string name="delete_alarm_confirm">Сигнал будет удален.</string>
+    <string name="show_clock">Показать часы</string>
+    <string name="hide_clock">Спрятать часы</string>
+    <string name="label">Описание</string>
+    <string name="default_label">Будильник</string>
+    <string name="set_alarm">Установить будильник</string>
+    <string name="alarm_vibrate">Вибросигнал</string>
+    <string name="alarm_repeat">Дни недели</string>
+    <string name="alert">Звук сигнала</string>
+    <string name="time">Время</string>
+    <string name="alarm_alert_dismiss_text">Отключить</string>
+    <string name="alarm_alert_alert_silenced">Будильник звонил %d мин.</string>
+    <string name="alarm_alert_snooze_stop">Будильник звонит %d раз перед отключением</string>
+    <string name="alarm_alert_snooze_text">Отложить</string>
+    <string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
+    <string name="snooze_label">Отложить</string>
+    <string name="day">1 день</string>
+    <string name="days">%s дн.</string>
+    <string name="hour">за 1 час</string>
+    <string name="hours">%s ч.</string>
+    <string name="minute">за 1 минуту</string>
+    <string name="minutes">%s мин.</string>
+    <string name="every_day">каждый день</string>
+    <string name="never">Не выбрано</string>
+    <string name="day_concat">", "</string>
+    <string name="clock_instructions">Выберите вид часов.</string>
+    <string name="analog_gadget">Часы со стрелками</string>
+    <string name="settings">Настройки</string>
+    <string name="alarm_in_silent_mode_title">Включать всегда</string>
+    <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
+    <string name="snooze_duration_title">Интервал повтора сигнала</string>
+    <string name="done">Готово</string>
+    <string name="revert">Отмена</string>
+    <string name="alarm_volume_title">Громкость будильника</string>
+    <string name="alarm_volume_summary">Настройка громкости будильника</string>
+    <string name="silent_alarm_summary">Без звука</string>
+    <string name="alarm_notify_text">Нажмите, чтобы прервать или отключить.</string>
+    <string name="alarm_notify_expired_text">Будильник просрочен</string>
+    <string name="alarm_notify_snooze_label">%s (отложено)</string>
+    <string name="alarm_notify_snooze_text">Будильник зазвонит в %s. Отменить?</string>
+    <string name="volume_button_setting_title">Функции боковой кнопки</string>
+    <string name="volume_button_setting_summary">Настройка функции боковой кнопки при ее нажатии во время звонка будильника</string>
+    <string name="alarm_delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="am">am</string>
+    <string name="pm">pm</string>
+    <string name="empty_text">Будильник не установлен.</string>
+    <item type="string" name="APKTOOL_DUMMY_0035">false</item>
+</resources>

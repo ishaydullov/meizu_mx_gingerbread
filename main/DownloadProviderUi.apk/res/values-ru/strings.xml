@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Загрузки</string>
+    <string name="download_title">Загрузки</string>
+    <string name="no_downloads">Нет загрузок.</string>
+    <string name="missing_title">&lt;без названия&gt;</string>
+    <string name="download_menu_sort_by_size">Сортировать по размеру</string>
+    <string name="download_menu_sort_by_date">Сортировать по дате</string>
+    <string name="download_queued">В очереди</string>
+    <string name="download_running">В процессе</string>
+    <string name="download_success">Завершено</string>
+    <string name="download_error">Сбой</string>
+    <string name="dialog_title_not_available">Сбой загрузки</string>
+    <string name="dialog_failed_body">Повторить попытку позже, или удалить файл из очереди?</string>
+    <string name="dialog_title_queued_body">Файл недоступен</string>
+    <string name="dialog_queued_body">Файл поставлен очередь для загрузки.</string>
+    <string name="dialog_file_missing_body">Загруженный файл не найден.</string>
+    <string name="dialog_insufficient_space_on_external">Сбой загрузки. Недостаточно места на SD-карте.</string>
+    <string name="dialog_insufficient_space_on_cache">Сбой загрузки. Недостаточно места во внутр. хранилище.</string>
+    <string name="dialog_cannot_resume">Сбой загрузки. Продолжение невозможно.</string>
+    <string name="dialog_file_already_exists">Сбой загрузки. Файл назначения уже существует.</string>
+    <string name="dialog_media_not_found">Сбой загрузки. Вставьте SD-карту.</string>
+    <string name="download_no_application_title">Невозможно открыть файл</string>
+    <string name="remove_download">Удалить</string>
+    <string name="delete_download">Удалить</string>
+    <string name="keep_queued_download">Оставить</string>
+    <string name="cancel_running_download">Отмена</string>
+    <string name="retry_download">Ещё раз</string>
+    <string name="deselect_all">Удалить выбранное</string>
+    <string name="all_pause">Приостановить все</string>
+    <string name="all_start">Возобовить все</string>
+    <string name="clear_done">Удалить загруженное</string>
+    <string name="download_pause">Загрузка приостановлена</string>
+    <string name="download_failed">Сбой загрузки</string>
+    <string name="download_directory">Папки загрузки</string>
+    <string name="download_complete">Загружено</string>
+    <string name="new_download">Новая загрузка</string>
+    <string name="stop_download">Приостановить</string>
+    <string name="go_download">Возобновить</string>
+    <string name="in_download">Загрузка</string>
+    <string name="wait_download">Ожидание загрузки</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="download_unknown_title">&lt;без названия&gt;</string>
+    <string name="not_exist">Файл не существует</string>
+</resources>
