@@ -5,15 +5,15 @@
     <string name="version">Версия: %s</string>
     <string name="configure_widget">Настройка виджета</string>
     <string name="nolocationprovider">Не удалось определить местоположение</string>
-    <string name="connecting">Подключение...</string>
-    <string name="acquiringlocation">Поиск местоположения...</string>
-    <string name="loading">Загрузка...</string>
+    <string name="connecting">Подключение…</string>
+    <string name="acquiringlocation">Поиск местоположения…</string>
+    <string name="loading">Загрузка…</string>
     <string name="retrying">К сожалению, не удалось установить соединение. Попробуйте позже.</string>
     <string name="retrynow">Повторить попытку</string>
     <string name="weather_unavailable">Нет информации о погоде</string>
     <string name="news_unavailable">К сожалению, новости временно недоступны.</string>
-    <string name="news_updating">Обновление тем новостей...</string>
-    <string name="pleasewait">Подождите...</string>
+    <string name="news_updating">Обновление тем новостей…</string>
+    <string name="pleasewait">Подождите…</string>
     <string name="nodata">К сожалению, данные недоступны. Попробуйте позже.</string>
     <string name="enterlocation">Введите название города или почтовый код:</string>
     <string name="widget_news">Новости</string>
@@ -29,7 +29,7 @@
     <string name="day_friday">Пт</string>
     <string name="day_saturday">Сб</string>
     <string name="day_sunday">Вс</string>
-    <string name="searching">Поиск...</string>
+    <string name="searching">Поиск…</string>
     <string name="networkfailure">К сожалению, произошла ошибка сети. Попробуйте позже.</string>
     <string name="setlocationcomplete">Местоположение для прогноза погоды обновлено.</string>
     <string name="setlocationfailed">К сожалению, не удалось обнаружить местоположение \"%s\".</string>
@@ -38,10 +38,10 @@
     <string name="menu_item_setting">Настройки</string>
     <string name="menu_item_share">Отправить новость</string>
     <string name="download_failed_message">Не удалось выполнить загрузку. Нажмите, чтобы повторить попытку.</string>
-    <string name="download_started_message">Загрузка...</string>
-    <string name="download_succeeded_message">Загрузка...</string>
-    <string name="download_progress" formatted="false">Выполнение: %d %...</string>
-    <string name="download_acquiring">Поиск местоположения...</string>
+    <string name="download_started_message">Загрузка…</string>
+    <string name="download_succeeded_message">Загрузка…</string>
+    <string name="download_progress" formatted="false">Выполнение: %d %…</string>
+    <string name="download_acquiring">Поиск местоположения…</string>
     <string name="weather_no_location_message">Прогноз погоды для этого местоположения недоступен.</string>
     <string name="weather_no_weather_message">К сожалению, прогноз погоды временно недоступен.</string>
     <string name="weather_no_location_action">Укажите свое местоположение</string>
@@ -102,7 +102,7 @@
     <string name="legal_disclaim_blocked_query">Мы не можем показать содержание результатов поиска, нарушающее местные законы, нормы и правила.</string>
     <string name="legal_disclaim_white_list_query">Некоторые результаты поиска были скрыты в соответствии с местными законами, нормами и правилами.</string>
     <string name="legal_disclaim_result_contains_bad_urls">Некоторые результаты поиска были скрыты в соответствии с местными законами, нормами и правилами.</string>
-    <string name="legal_activity_loading">Подождите, идет загрузка...</string>
+    <string name="legal_activity_loading">Подождите, идет загрузка…</string>
     <string name="legal_activity_unavailable">Ошибка при загрузке условий предоставления услуг.</string>
     <string name="legal_activity_title">Условия использования</string>
     <string name="legal_activity_url">http://www.google.com/intl/%s/terms_mobile_news.html</string>

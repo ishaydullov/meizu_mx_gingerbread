@@ -15,8 +15,8 @@
     <string name="system_update_activity_battery_low_charging_text">Заряда батареи не хватит для установки обновления системы. Подождите, пока батарея зарядится.</string>
     <string name="system_update_activity_roaming_text">Обновления системы нельзя загрузить при роуминге</string>
     <string name="system_update_requires_restart_status_text">Повторите загрузку</string>
-    <string name="system_update_downloading_status_text">Загрузка...</string>
-    <string name="system_update_verifying_status_text">Загрузка завершена, идет проверка...</string>
+    <string name="system_update_downloading_status_text">Загрузка…</string>
+    <string name="system_update_verifying_status_text">Загрузка завершена, идет проверка…</string>
     <string name="system_update_verified_status_text">Загружено и проверено</string>
     <string name="system_update_download_failed_status_text">Не удалось загрузить.</string>
     <string name="system_update_download_retry_button_text">Загрузить снова</string>
@@ -148,7 +148,7 @@
     <string name="open_keyboard_message_to_continue">Для продолжения выдвиньте клавиатуру.</string>
     <string name="emergency_dial">Экстренный вызов</string>
     <string name="change_language">Изменить язык</string>
-    <string name="signing_in">Выполняется вход...</string>
+    <string name="signing_in">Выполняется вход…</string>
     <string name="close_keyboard_message">Для продолжения задвиньте клавиатуру.</string>
     <string name="communicating_message">Чтобы настроить аккаунт, необходимо подключить телефон к серверам Google. Это займет не более пяти минут.</string>
     <string name="communicating_message_domain">Чтобы настроить аккаунт, необходимо подключить телефон к серверам Google для установления информации о домене. Это займет не более пяти минут.</string>
@@ -158,7 +158,7 @@
     <string name="sign_in_agreement">Выполняя вход, вы принимаете политику конфиденциальности <annotation id="google_privacy">Google</annotation> и <annotation id="android_privacy">дополнительные</annotation> политики конфиденциальности.</string>
     <string name="create">Создать</string>
     <string name="create_message">Нужен аккаунт Google?</string>
-    <string name="now_signing_in">Выполняется вход...</string>
+    <string name="now_signing_in">Выполняется вход…</string>
     <string name="now_verifying_domain">Поиск домена…</string>
     <string name="sign_in_with_google_account_short">Войти с помощью аккаунта Google.</string>
     <string name="browser_sign_in_explanation">Используйте этот экран, если вам требуется веб-браузер для входа.</string>
@@ -167,7 +167,7 @@
     <string name="enter_user_name">Введите имя пользователя и пароль для ^1:</string>
     <string name="inactive_domain">Данный аккаунт нельзя использовать на этом телефоне, поскольку он принадлежит неактивному домену. Свяжитесь с администратором домена для <b>^1</b> или войдите, используя другой аккаунт.</string>
     <string name="invalid_username">Введенный текст не является допустимым именем пользователя.</string>
-    <string name="web_login_error_title">Ошибка...</string>
+    <string name="web_login_error_title">Ошибка…</string>
     <string name="web_login_error_desc">"При подключении к серверам компании по адресу ^1 возникли неполадки.
 
 Сведения об ошибках:
@@ -176,7 +176,7 @@
     <string name="web_login_error_http">Ошибка HTTP ^1 : ^2</string>
     <string name="name_device_label">Дайте телефону имя.</string>
     <string name="device_name_hint">Название телефона</string>
-    <string name="registering_device">Регистрация телефона...</string>
+    <string name="registering_device">Регистрация телефона…</string>
     <string name="error_account_disabled">"Аккаунт отключен. 
 
 (Для получения дополнительной информации откройте страницу http://google.com/accounts на компьютере.)"</string>
@@ -192,7 +192,7 @@
     <string name="create_account_agreement">Создавая этот аккаунт, вы принимаете политику конфиденциальности <annotation id="google_privacy">Google</annotation> и <annotation id="android_privacy">дополнительные</annotation> политики конфиденциальности.</string>
     <string name="account_already_has_gmail">У аккаунта уже есть Gmail.</string>
     <string name="creating_account">Создание аккаунта…</string>
-    <string name="checking_account">Проверка доступности имени пользователя...</string>
+    <string name="checking_account">Проверка доступности имени пользователя…</string>
     <string name="try_a_different_username">Попробуйте другое имя пользователя</string>
     <string name="is_not_available">Имя пользователя <b>^1</b> недоступно.</string>
     <string name="hint_size"><b>^1</b> содержит менее 6 или более 30 символов.</string>
@@ -223,7 +223,7 @@
     <string name="error_username_unavailable">Имя пользователя недоступно.</string>
     <string name="error_bad_password">Пароль очень простой или содержит недействительные символы. Повторите попытку.</string>
     <string name="error_bad_username">Неверное имя пользователя.</string>
-    <string name="submission_title">Ошибка...</string>
+    <string name="submission_title">Ошибка…</string>
     <string name="submission_error_text">Произошла ошибка. Повторите попытку.</string>
     <string name="existing_account_error_title">Аккаунт уже существует</string>
     <string name="existing_account_error_text">На этом телефоне уже существует аккаунт ^1</string>
@@ -232,7 +232,7 @@
 "<font height="17">"
 "</font>"%i Загрузка будет завершена, когда значок синхронизации исчезнет из панели состояния в верхней части экрана.
 "<font height="17">"
-"</font><b>О панели состояния...</b>"
+"</font><b>О панели состояния…</b>"
 "<font height="3">"
 "</font>"Если вы получите новое сообщение или другое оповещение, в панели состояния появится значок.
 "<font height="17">"
@@ -261,7 +261,7 @@
 Нажмите \"Далее\", чтобы активировать имя пользователя и использовать его для этого телефона. 
 
 Если необходимо использовать другой аккаунт, нажмите \"Назад\" и войдите в другой аккаунт или создайте новый."</string>
-    <string name="reactivating_account">Повторная активация аккаунта...</string>
+    <string name="reactivating_account">Повторная активация аккаунта…</string>
     <string name="your_account_was_reactivated">Аккаунт активирован!</string>
     <string name="account_recovery_info">Следующая информация поможет восстановить пароль в случае его потери</string>
     <string name="secondary_email_label"><b>"Дополнительный
@@ -300,7 +300,7 @@
     <string name="restore_enable">Включить восстановление</string>
     <string name="restore_enabled">Если вы уже выполняли резервное копирование настроек, они будут восстановлены.</string>
     <string name="restore_disabled">Ваши настройки не будут восстановлены из резервной копии.</string>
-    <string name="webview_progress_title">Подключение к домену...</string>
+    <string name="webview_progress_title">Подключение к домену…</string>
     <string name="webview_progress_verbose_message">"Серверы вашей компании отправляют регистрационную информацию на телефон. Это займет несколько минут.
 Когда передача будет завершена, откроется корпоративная страница входа."</string>
     <string name="enterprise_unmanaged_domain">Этот домен не использует Службы Google. Проверьте имя домена и повторите попытку.</string>
@@ -404,7 +404,7 @@
     <string name="gls_ui_activity_title_browser_signin">Вход в браузере</string>
     <string name="gls_ui_activity_title_enterprise">Вход в корпоративный аккаунт</string>
     <string name="gls_ui_activity_title_youtube">Вход в YouTube</string>
-    <string name="gls_ui_activity_authenticating">Аутентификация...</string>
+    <string name="gls_ui_activity_authenticating">Аутентификация…</string>
     <string name="gls_captcha_activity_message">Введите символы, изображенные на картинке:</string>
     <string name="gls_captcha_activity_ok_button">Готово</string>
     <string name="gls_error_activity_message">Произошла сетевая ошибка при попытке войти под именем <b>^1</b>. Повторите попытку сейчас или нажмите кнопку \"Назад\" для отмены.</string>
@@ -429,7 +429,7 @@
     <string name="gls_settings_tos_activity_unsuccessful_message">Телефон не подключен к службе передачи данных. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере, подключенном к Интернету.</string>
     <string name="gls_settings_contributors_activity_title">Благодарности</string>
     <string name="gls_settings_contributors_activity_unsuccessful_message">Телефон не подключен к службе передачи данных. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере, подключенном к Интернету.</string>
-    <string name="gls_webview_progress_title">Подключение к домену...</string>
+    <string name="gls_webview_progress_title">Подключение к домену…</string>
     <string name="gls_webview_progress_verbose_message">"Серверы вашей компании отправляют регистрационную информацию на телефон. Это займет несколько минут.
 Когда передача будет завершена, откроется корпоративная страница входа."</string>
     <string name="gls_sign_in_button_label">Войти</string>
@@ -437,5 +437,5 @@
     <string name="gls_cancel_button_label">Отмена</string>
     <string name="gls_reauthorize_button_label">Повторить авторизацию</string>
     <string name="gls_sign_in_message">Чтобы настроить аккаунт, необходимо подключить телефон к серверам Google. Это займет не более пяти минут.</string>
-    <string name="gls_sign_in_title">Выполняется вход...</string>
+    <string name="gls_sign_in_title">Выполняется вход…</string>
 </resources>

@@ -26,7 +26,7 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="goto_today">Сегодня</string>
     <string name="menu_select_calendars">Календари</string>
     <string name="menu_preferences">Настройки</string>
-    <string name="plus_N_more">(и ещё %d ...)</string>
+    <string name="plus_N_more">(и ещё %d …)</string>
     <string name="calendars_title">Календари</string>
     <string name="add_calendars">Добавить календари</string>
     <string name="remove_calendars">Удалить календари</string>
@@ -35,10 +35,10 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="hint_where">Место мероприятия</string>
     <string name="hint_description">Описание мероприятия</string>
     <string name="hint_attendees">Адреса электронной почты</string>
-    <string name="creating_event">Мероприятие создано...</string>
-    <string name="saving_event">Мероприятие сохранено...</string>
+    <string name="creating_event">Мероприятие создано…</string>
+    <string name="saving_event">Мероприятие сохранено…</string>
     <string name="loading_calendars_title">Загрузка календарей</string>
-    <string name="loading_calendars_message">"Загрузка календарей...</string>
+    <string name="loading_calendars_message">"Загрузка календарей…</string>
     <string name="alert_title">Уведомления календаря</string>
     <string name="alert_when_label">Когда:</string>
     <string name="alert_where_label">Где:</string>
@@ -72,7 +72,7 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="view_event_timezone_label">Часовой пояс:</string>
     <string name="view_event_response_label">Принять приглашение?</string>
     <string name="agenda_today">Сегодня, %1$s</string>
-    <string name="loading">Загрузка...</string>
+    <string name="loading">Загрузка…</string>
     <string name="show_older_events">Мероприятия с %1$s. Нажмите для поиска других мероприятий.</string>
     <string name="show_newer_events">Мероприятия до %1$s. Нажмите для поиска других мероприятий.</string>
     <string name="num_events">Кол-во мероприятий</string>

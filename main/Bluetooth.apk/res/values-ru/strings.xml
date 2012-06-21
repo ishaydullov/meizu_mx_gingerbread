@@ -34,7 +34,7 @@
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Размер файла: %1$s</string>
     <string name="download_line4" />
-    <string name="download_line5">Получение файла...</string>
+    <string name="download_line5">Получение файла…</string>
     <string name="download_cancel">Остановить</string>
     <string name="download_ok">Скрыть</string>
     <string name="download_fail_line1">Файл не получен.</string>
@@ -45,7 +45,7 @@
     <string name="download_succ_ok">Открыть</string>
     <string name="upload_line1">Куда: \"%1$s\"</string>
     <string name="upload_line3">Тип файла: %1$s (%2$s)</string>
-    <string name="upload_line5">Отправка файла...</string>
+    <string name="upload_line5">Отправка файла…</string>
     <string name="upload_succ_line5">Файл отправлен</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">Файл не был отправлен на \"%1$s\".</string>
@@ -59,8 +59,8 @@
     <string name="not_exist_file">Файл не существует.</string>
     <string name="not_exist_file_desc">"Файл не существует! 
 "</string>
-    <string name="enabling_progress_title">Подождите...</string>
-    <string name="enabling_progress_content">Включение Bluetooth...</string>
+    <string name="enabling_progress_title">Подождите…</string>
+    <string name="enabling_progress_content">Включение Bluetooth…</string>
     <string name="bt_toast_1">Этот файл будет получен. Ход выполнения отображается на панели уведомлений.</string>
     <string name="bt_toast_2">Этот файл не будет получен.</string>
     <string name="bt_toast_3">Получение файла от \"%1$s\" прервано</string>
@@ -104,7 +104,7 @@
     <string name="sharedUserId" />
     <string name="process" />
     <string name="notification_sent_fail_ext">Передача по Bluetooth: файл не отправлен</string>
-    <string name="upload_download_prepare">Подготовка к передаче/получению файлов...</string>
+    <string name="upload_download_prepare">Подготовка к передаче/получению файлов…</string>
     <string name="turning_off_bluetooth">Выключение Bluetooth. Попробуйте позже.</string>
     <string name="transfer_history_data_format">MMM dd</string>
     <string name="pbap_acceptance_dialog_title">Устройство %1$s пытается получить доступ к вашим контактам и истории вызовов. Предоставить доступ для %2$s?</string>

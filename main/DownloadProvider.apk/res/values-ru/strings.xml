@@ -36,7 +36,7 @@
     <string name="download_pause">Загрузка приостановлена</string>
     <string name="download_failed">Сбой загрузки</string>
     <string name="download_img">Загрузка</string>
-    <string name="wait_download">Инициализация загрузки...</string>
+    <string name="wait_download">Инициализация загрузки…</string>
     <string name="download_nospace">Недостаточно места на SD-карте</string>
     <string name="not_exist">Файл не существует</string>
 </resources>
