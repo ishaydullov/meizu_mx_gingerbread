@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unzip</string>
+    <string name="extracting">Извлечение:</string>
+    <string name="extract_error">Ошибка извлечения</string>
+    <string name="unsupport">Этот тип архива не поддерживается</string>
+    <string name="cancel_extract">Извлечение отменено</string>
+    <string name="note_replace_all">Файл уже существует. Заменить?</string>
+    <string name="replace_ok">OK</string>
+    <string name="replace_cancel">Отмена</string>
+    <string name="password_failed">Неверный пароль, отмена</string>
+    <string name="extract_dialog_psw_hint">Пароль:</string>
+    <string name="extract_password_dialog_confirm">Confirm</string>
+    <string name="extract_password_dialog_cancel">Отмена</string>
+    <string name="extract_password_dialog_title">Input Password</string>
+    <string name="extract_password_dialog_title_reinput">Неверный пароль, повторите ввод</string>
+    <string name="extract_password_toast_password_not_match">Пароли не совпадают</string>
+    <string name="extract_extracting_cancel">Остановка, подождите</string>
+</resources>

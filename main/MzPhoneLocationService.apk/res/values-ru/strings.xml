@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestServiceHolder!</string>
+    <string name="app_name">Поиск телефона</string>
+    <string name="start_service">Запустить службу</string>
+    <string name="stop_service">Остановить службу</string>
+    <string name="bind_service">Привязать к аккаунту</string>
+    <string name="unbind_service">Отвязать от аккаунта</string>
+    <string name="broadcast_message">Push сообщения</string>
+    <string name="Account">Аккаунт</string>
+    <string name="Password">Пароль</string>
+    <string name="bind">Включить</string>
+    <string name="unBind">Выключить</string>
+    <string name="cancel">Отмена</string>
+    <string name="loginaccount">Введите пароль от аккаунта Flyme</string>
+    <string name="disableFindPhoneDesc">Отключить службу поиска. Телефон будет невозможно обнаружить.</string>
+    <string name="messagebox_ok">OK</string>
+    <string name="network_faiured">Передача данных прервана. Повторите позже.</string>
+    <string name="network_disconnected">Нет соединения с сетью. Проверьте настройки сетевого подключения.</string>
+    <string name="find_phone_closeing">Отключение службы определения местоположения. Подождите.</string>
+    <string name="enable_started">Включение службы определения местоположения. Подождите.</string>
+    <string name="company">[\\s-]*([\\u3010\\[]*\\s*(魅族公司|魅族科技|珠海魅族|魅族)*\\s*[\\u3011\\]]*\\s*)$</string>
+    <string name="login_faiured">Неправильный пароль. Введите ещё раз.</string>
+    <string name="enable_alert">Включить службу поиска. Может взиматься плата за SMS сообщения.</string>
+    <string name="remote_message">Удалённая информация</string>
+    <string name="sim_unsupported">В настоящий момент услуга недоступна в вашем регионе.</string>
+    <string name="smsserver_fault">Невозможно подключиться к SMS серверу Meizu.</string>
+</resources>

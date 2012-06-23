@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="netconnect_choices">
+        <item>Мобильный интернет</item>
+        <item>Только через Wi-Fi</item>
+    </string-array>
+    <string-array name="netconnect_values">
+        <item>mobile</item>
+        <item>wlan</item>
+    </string-array>
+    <string-array name="autostop_choices">
+        <item>Откл.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+        <item>60 мин.</item>
+    </string-array>
+    <string-array name="autostop_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <integer-array name="autostop_times">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </integer-array>
+    <string-array name="star_choice_list">
+        <item>5-звёзд</item>
+        <item>4-звезды и выше</item>
+        <item>3-звезды и выше</item>
+        <item>2-звезды и выше</item>
+        <item>Все оценки</item>
+    </string-array>
+    <string-array name="equalizer_choices">
+        <item>Откл.</item>
+        <item>Поп</item>
+        <item>Рок</item>
+        <item>Металл</item>
+        <item>Классика</item>
+        <item>Супер басс</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 нед.</item>
+        <item>2 нед.</item>
+        <item>3 нед.</item>
+        <item>4 нед.</item>
+        <item>5 нед.</item>
+        <item>6 нед.</item>
+        <item>7 нед.</item>
+        <item>8 нед.</item>
+        <item>9 нед.</item>
+        <item>10 нед.</item>
+        <item>11 нед.</item>
+        <item>12 нед.</item>
+    </string-array>
+    <string-array name="auto_download_item">
+        <item>ID3 тэг</item>
+        <item>Лирика</item>
+        <item>Обложка альбома</item>
+    </string-array>
+    <string-array name="music_info_item">
+        <item>Редактировать ID3 тэг</item>
+        <item>Скачать лирику</item>
+        <item>Поиск обложки</item>
+        <item>Настройки авто-обновления</item>
+    </string-array>
+</resources>

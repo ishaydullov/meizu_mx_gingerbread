@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ary">
+        <item>test</item>
+        <item>item 2</item>
+    </string-array>
+    <string-array name="frequency_ary">
+        <item>Каждые 15 мин.</item>
+        <item>Каждые 30 мин.</item>
+        <item>Каждый час</item>
+        <item>Каждые 2 ч.</item>
+        <item>Каждые 6 ч.</item>
+    </string-array>
+    <string-array name="frequency_ary_debug">
+        <item>Каждые 15 мин.</item>
+        <item>Каждые 30 мин.</item>
+        <item>Каждый час</item>
+        <item>Каждые 2 ч.</item>
+        <item>Каждые 6 ч.</item>
+        <item>Каждые 2 мин.</item>
+    </string-array>
+    <string-array name="paw_protect_ary">
+        <item>Любимый фильм</item>
+        <item>My motto</item>
+        <item>"My best friend's birthday"</item>
+        <item>User-defined</item>
+    </string-array>
+</resources>

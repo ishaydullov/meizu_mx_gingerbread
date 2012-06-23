@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="groupDescrip">
+        <item quantity="other">Контактов: %0$d</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">Контактов: %1$d; с тел. номерами: %2$d</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Показаны контакты с номерами телефонов: %d</item>
+        <item quantity="one">Показан 1 контакт с номером телефона</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Показано контактов: %d</item>
+        <item quantity="one">Показан 1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено контактов: %d</item>
+        <item quantity="one">Найден 1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+</resources>

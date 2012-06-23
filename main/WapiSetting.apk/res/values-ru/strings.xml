@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WapiSetting!</string>
+    <string name="app_name">Управление сертификатами</string>
+    <string name="wifi_wapi_ok">OK</string>
+    <string name="cert_issued_to">Выпущен:</string>
+    <string name="cert_serial">Серийный номер:</string>
+    <string name="cert_valid_from">Valid from:</string>
+    <string name="cert_valid_to">Valid to:</string>
+    <string name="wifi_pleaseslect_cert">Please select correct certificate.</string>
+    <string name="wifi_install_wapicert">Install certificate</string>
+    <string name="wifi_deleted_wapicert">Remove certificate</string>
+    <string name="wifi_wapicert_userinstalled">User certificate installed. Please select AS certificate to install.</string>
+    <string name="wifi_wapicert_asinstalled">AS certificate installed. Please select user certificate to install.</string>
+</resources>

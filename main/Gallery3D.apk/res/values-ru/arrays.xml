@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slideshow_choices">
+        <item>Нет</item>
+        <item>Random</item>
+        <item>Shutters</item>
+        <item>Fade</item>
+        <item>Dissolve</item>
+    </string-array>
+    <string-array name="delayplay_choices">
+        <item>1c</item>
+        <item>2c</item>
+        <item>3c</item>
+        <item>4c</item>
+        <item>5c</item>
+    </string-array>
+    <string-array name="months_abbreviated">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="share_items">
+        <item>E-mail</item>
+        <item>MMS</item>
+        <item>Bluetooth</item>
+        <item>Sina weibo</item>
+        <item>Tencent microblog</item>
+        <item>Evernote</item>
+        <item>Ещё</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MzAutoInstaller!</string>
+    <string name="app_name">MzAutoInstaller</string>
+    <string name="dlg_found_title">Installer is available</string>
+    <string name="dlg_found_tips">Installer is available. Would you like to install it now?</string>
+    <string name="dlg_ok">Install now</string>
+    <string name="dlg_cancel">Install later</string>
+    <string name="activity_install_title">Installing applications in the AutoInstallAPK folder of the SD card</string>
+    <string name="activity_installing_tips">Installing</string>
+    <string name="activity_installed_tips">Installation complete</string>
+    <string name="activity_button">Background</string>
+    <string name="background_installing_found">There have some apk to install:</string>
+    <string name="background_installing_tips">Installing</string>
+    <string name="background_installed_tips">Installation complete</string>
+    <string name="install_failed_because_nospace">Installation failed: Not enough space</string>
+    <string name="install_failed_because_alreadyexist">Installation failed: The package already exists</string>
+    <string name="install_failed_because_othererrors">Installation failed: Incompatibility errors</string>
+    <string name="warning_no_enough_space">Print screen failed: Not enough space</string>
+    <string name="warning_on_ums">Print screen failed: Phone is in USB Mass Storage Mode</string>
+    <string name="warning_sdcard_is_removed">Print screen failed: Media is removed</string>
+    <string name="warning_sdcard_is_unmount">Print screen failed: Media is unmounted</string>
+</resources>

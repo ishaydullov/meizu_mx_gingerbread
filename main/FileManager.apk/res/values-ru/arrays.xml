@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Название</item>
+        <item>Дата</item>
+        <item>Тип</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="edit_item">
+        <item>Копировать</item>
+        <item>Переместить</item>
+        <item>Переименовать</item>
+        <item>E-mail</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="share_item">
+        <item>E-mail</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_single">
+        <item>Перезаписать</item>
+        <item>Пропустить</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_multi">
+        <item>Перезаписать</item>
+        <item>Пропустить</item>
+        <item>Перезаписать все</item>
+    </string-array>
+</resources>
