@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Средство просмотра HTML</string>
-    <string name="permlab_accessDrm">Доступ к содержанию DRM.</string>
-    <string name="permdesc_accessDrm">Предоставляет приложению доступ к содержанию, защищенному DRM.</string>
-    <string name="pref_default_text_encoding">Кодировка текста</string>
-    <string name="type_encoding">Тип кодировки</string>
-    <string name="unsupport">Данный тип не поддерживается</string>
-</resources>
