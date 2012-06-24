@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="matches_found">
+        <item quantity="other">Соответствий: %d</item>
+        <item quantity="zero">Соответствий нет</item>
+        <item quantity="one">1 соответствие</item>
+        <item quantity="few">Соответствий: %d</item>
+    </plurals>
+</resources>

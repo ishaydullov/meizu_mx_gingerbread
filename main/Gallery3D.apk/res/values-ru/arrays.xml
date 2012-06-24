@@ -2,17 +2,17 @@
 <resources>
     <string-array name="slideshow_choices">
         <item>Нет</item>
-        <item>Random</item>
-        <item>Shutters</item>
-        <item>Fade</item>
-        <item>Dissolve</item>
+        <item>Случайно</item>
+        <item>Жалюзи</item>
+        <item>Затухание</item>
+        <item>Мозаика</item>
     </string-array>
     <string-array name="delayplay_choices">
-        <item>1c</item>
-        <item>2c</item>
-        <item>3c</item>
-        <item>4c</item>
-        <item>5c</item>
+        <item>1 cек.</item>
+        <item>2 cек.</item>
+        <item>3 cек.</item>
+        <item>4 cек.</item>
+        <item>5 cек.</item>
     </string-array>
     <string-array name="months_abbreviated">
         <item>Янв</item>
@@ -29,7 +29,7 @@
         <item>Дек</item>
     </string-array>
     <string-array name="share_items">
-        <item>E-mail</item>
+        <item>Email</item>
         <item>MMS</item>
         <item>Bluetooth</item>
         <item>Sina weibo</item>

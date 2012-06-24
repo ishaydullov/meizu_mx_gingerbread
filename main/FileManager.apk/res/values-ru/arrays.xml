@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sort_by">
-        <item>Название</item>
+        <item>Имя</item>
         <item>Дата</item>
         <item>Тип</item>
         <item>Размер</item>
@@ -20,12 +20,12 @@
         <item>MMS</item>
     </string-array>
     <string-array name="edit_collsion_choice_single">
-        <item>Перезаписать</item>
+        <item>Заменить</item>
         <item>Пропустить</item>
     </string-array>
     <string-array name="edit_collsion_choice_multi">
-        <item>Перезаписать</item>
+        <item>Заменить</item>
         <item>Пропустить</item>
-        <item>Перезаписать все</item>
+        <item>Заменить все</item>
     </string-array>
 </resources>

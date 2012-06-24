@@ -7,7 +7,7 @@
         <item>Будильник зазвонит через %1$s и %2$s</item>
         <item>Будильник зазвонит через %3$s</item>
         <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s, и %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">

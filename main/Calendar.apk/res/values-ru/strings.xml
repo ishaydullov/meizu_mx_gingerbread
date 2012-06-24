@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weekday_day">%1$s %2$s</string>
-    <string name="year_month" formatted="false">%Y %B</string>
     <string name="app_label">Календарь</string>
     <string name="calendar_plug"><font fgcolor="#ffffffff">Добро пожаловать в календарь Google!</font>" 
-A Google calendar can be used to manage your schedule, making your arrangements more intuitive, efficient and easy."</string>
+Подход Google к управлению расписанием основан на принципах интуитивности, эффективности и доступности."</string>
     <string name="what_label">Что</string>
     <string name="when_label">Когда</string>
     <string name="where_label">Где</string>
@@ -42,7 +40,7 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="alert_title">Уведомления календаря</string>
     <string name="alert_when_label">Когда:</string>
     <string name="alert_where_label">Где:</string>
-    <string name="alert_missed_events_single">(ещё %s мероприятие)</string>
+    <string name="alert_missed_events_single">(ещё %s  напоминание)</string>
     <string name="alert_missed_events_multiple">(еще напоминаний: %s)</string>
     <string name="event_info_title">Просмотр мероприятия</string>
     <string name="event_info_title_invite">Приглашение на встречу</string>
@@ -66,7 +64,6 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="content_description_edit_event_to_time">Время конца</string>
     <string name="content_description_edit_event_reminders">Напоминания</string>
     <string name="content_description_edit_event_remove_reminder">Удалить напоминание</string>
-    <string name="google_email_domain">gmail.com</string>
     <string name="view_event_calendar_label">Календарь:</string>
     <string name="view_event_organizer_label">Организатор:</string>
     <string name="view_event_timezone_label">Часовой пояс:</string>
@@ -105,7 +102,6 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
     <string name="preferences_alerts_type_title">Настроить уведомления</string>
     <string name="preferences_alerts_type_dialog">Оповещения и уведомления</string>
-    <string name="preferences_alerts_type_default">1</string>
     <string name="preferences_alerts_vibrate_title">Вибросигнал</string>
     <string name="preferences_alerts_ringtone_title">Звук уведомления</string>
     <string name="preferences_default_reminder_title">Время напоминания</string>
@@ -114,7 +110,6 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="preferences_use_home_tz_title">Фикс. часовой пояс</string>
     <string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
-    <string name="preferences_home_tz_default">США/Лос-Анжелес</string>
     <string name="synced_visible">синхронизировано, видимое</string>
     <string name="synced_not_visible">синхронизировано, невидимое</string>
     <string name="not_synced_not_visible">не синхронизировано, невидимое</string>
@@ -143,20 +138,20 @@ A Google calendar can be used to manage your schedule, making your arrangements 
     <string name="time_label">Время</string>
     <string name="start_date_label">Дата начала</string>
     <string name="start_time_label">Время начала</string>
-    <string name="end_date_label">Дата конца</string>
-    <string name="end_time_label">Время конца</string>
+    <string name="end_date_label">Дата окончания</string>
+    <string name="end_time_label">Время окончания</string>
     <string name="cancel_label">Отмена</string>
     <string name="preferences_account_label">Аккаунт</string>
     <string name="preferences_add_account_label">Добавить аккаунт</string>
     <string name="return_label">Назад</string>
-    <string name="delte_repeat_event">Delete repeating event</string>
-    <string name="delte_repeat_ask">Do you want to retain previous occurrences of this repeating event?</string>
-    <string name="keep_label">Retain</string>
+    <string name="delte_repeat_event">Удалить повторяющиеся мероприятия</string>
+    <string name="delte_repeat_ask">Удалить предыдущие вхождения повторяющихся мероприятий?</string>
+    <string name="keep_label">Сохранить</string>
     <string name="no_events">Нет мероприятий</string>
     <string name="no_match_events">Нет мероприятий</string>
     <string name="every_week">Еженедельно</string>
     <string name="every_month">Ежемесячно</string>
     <string name="every_year">Ежегодно</string>
     <string name="every_lunar_year">Ежегодно (Лунный календарь)</string>
-    <string name="create_failure">Creation failed, repeat the event start / end time span of no more than %d days</string>
+    <string name="create_failure">Сбой создания мероприятия. Интервал между повторами должен быть более %d дн.</string>
 </resources>

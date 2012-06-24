@@ -4,7 +4,7 @@
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Свой</item>
+        <item>Свой ярлык</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -18,8 +18,8 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Свой</item>
+        <item>Другое</item>
+        <item>Свой ярлык</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Домашний</item>
@@ -29,13 +29,13 @@
         <item>Домашний факс</item>
         <item>Пайджер</item>
         <item>Другой</item>
-        <item>Свой</item>
+        <item>Свой ярлык</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Свой</item>
+        <item>Свой ярлык</item>
     </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>55750449</item>
@@ -46,12 +46,12 @@
     </integer-array>
     <string-array name="system_group_blacklist_title_list">
         <item>Чёрный список</item>
-        <item>й»‘еђЌеЌ•</item>
+        <item>黑名单</item>
     </string-array>
     <string-array name="system_group_special_group_title_list">
         <item>Все группы</item>
-        <item>е…ЁйѓЁ</item>
+        <item>全部</item>
         <item>Без группы</item>
-        <item>жњЄе€†з»„</item>
+        <item>未分组</item>
     </string-array>
 </resources>

@@ -50,7 +50,7 @@
     <string name="account_device_only">Контакты телефона</string>
     <string name="add_exchange_account">Добавить аккаунт Exchange</string>
     <string name="confirm_cancel_sync_authority_title">Отключить синхронизацию %s?</string>
-    <string name="confirm_cancel_sync_authority_message">Turning it off will remove all syncing %s</string>
+    <string name="confirm_cancel_sync_authority_message">Отключение приведет к удалению синхронизированных данных %s</string>
     <string name="preferences_default_reminder_title">Время напоминания</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_alerts_type_title">Настроить уведомления</string>
@@ -58,5 +58,5 @@
     <string name="preferences_alerts_type_default">1</string>
     <string name="preferences_account_label">Аккаунты</string>
     <string name="preferences_alerts_title">Уведомления</string>
-    <string name="exchange_settings_incoming_label">Настройки входящих</string>
+    <string name="exchange_settings_incoming_label">Получение настроек</string>
 </resources>

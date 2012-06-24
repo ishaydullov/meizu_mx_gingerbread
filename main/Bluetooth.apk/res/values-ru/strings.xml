@@ -106,7 +106,7 @@
     <string name="notification_sent_fail_ext">Передача по Bluetooth: файл не отправлен</string>
     <string name="upload_download_prepare">Подготовка к передаче/получению файлов…</string>
     <string name="turning_off_bluetooth">Выключение Bluetooth. Попробуйте позже.</string>
-    <string name="transfer_history_data_format">MMM dd</string>
+    <string name="transfer_history_data_format">MM dd</string>
     <string name="pbap_acceptance_dialog_title">Устройство %1$s пытается получить доступ к вашим контактам и истории вызовов. Предоставить доступ для %2$s?</string>
     <string name="pbap_acceptance_dialog_header">Доступ к телефонной книге</string>
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>

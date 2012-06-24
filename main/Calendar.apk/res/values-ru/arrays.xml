@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_минут_labels">
+    <string-array name="reminder_minutes_labels">
         <item>Нет</item>
         <item>за 1 минуту</item>
         <item>за 5 минут</item>
@@ -80,84 +80,12 @@
         <item>Все мероприятия в серии</item>
     </string-array>
     <string-array name="repeat_select_labels">
-        <item>Однократноре мероприятие</item>
+        <item>Однократно</item>
         <item>Ежедневно</item>
-        <item>С понедельника по пятницу</item>
-        <item>Раз в неделю</item>
+        <item>В рабочие дни</item>
+        <item>Еженедельно</item>
         <item>Ежемесячно</item>
         <item>Ежегодно</item>
-    </string-array>
-    <string-array name="chinese_nonhli_riqi">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="chinese_nonhli_yuefen">
-        <item>Январь</item>
-        <item>Февраль</item>
-        <item>Март</item>
-        <item>Апрель</item>
-        <item>Май</item>
-        <item>Июнь</item>
-        <item>Июль</item>
-        <item>Август</item>
-        <item>Сентябрь</item>
-        <item>Октябрь</item>
-        <item>Ноябрь</item>
-        <item>Декабрь</item>
-    </string-array>
-    <string-array name="chinese_nonhli_jieqi">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="yuefen">
         <item></item>
