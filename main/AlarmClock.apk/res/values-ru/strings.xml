@@ -53,5 +53,5 @@
     <string name="am">am</string>
     <string name="pm">pm</string>
     <string name="empty_text">Будильник не установлен.</string>
-    <item type="string" name="APKTOOL_DUMMY_0035">false</item>
+    <string name="alarm_close_confirm">Хотите закрыть будильник?</string>
 </resources>

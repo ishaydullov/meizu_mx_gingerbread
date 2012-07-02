@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sharedUserId" />
+    <string name="process" />
     <string name="application_name">Launcher</string>
     <string name="uid_name">Основные приложения Android</string>
     <string name="folder_name">Папка</string>
@@ -18,7 +20,7 @@
     <string name="group_shortcuts">Ярлыки</string>
     <string name="group_folder">Новая папка</string>
     <string name="group_live_folders">Папка</string>
-    <string name="group_widgets">Виджеты/string>
+    <string name="group_widgets">Виджет</string>
     <string name="group_wallpapers">Обои</string>
     <string name="add_folder">Папка</string>
     <string name="add_clock">Часы</string>
@@ -26,8 +28,8 @@
     <string name="out_of_space">На этом экране нет свободного места.</string>
     <string name="out_of_space_shortcut">На этом экране нет свободного места.</string>
     <string name="shortcut_installed">Ярлык \"%s\" создан</string>
-    <string name="shortcut_uninstalled">Ярлык \"%s\" удален</string>
-    <string name="shortcut_duplicate">Ярлык \"%s\" уже существует</string>
+    <string name="shortcut_uninstalled">Ярлык \"%s\" удален.</string>
+    <string name="shortcut_duplicate">Ярлык \"%s\" уже существует.</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="title_select_application">Выбор приложения</string>
     <string name="title_select_live_folder">Выбор папки</string>
@@ -49,6 +51,7 @@
     <string name="permlab_write_settings">изменять настройки и ярлыки главного экрана</string>
     <string name="permdesc_write_settings">Позволяет приложению изменять настройки и ярлыки на главном экране.</string>
     <string name="gadget_error_text">Не удалось загрузить виджет</string>
+    <string name="default_browser_url">http://www.google.com/m?client=ms-{CID}&amp;source=android-home-hotseat</string>
     <string name="all_apps_tips">Удерживайте для создания ярлыка на экране</string>
     <string name="install_number">Установлено %s новых приложений.</string>
     <string name="install_success">Установка завершена</string>
@@ -61,7 +64,7 @@
     <string name="install_system_number">Установлено системных приложений: %s.</string>
     <string name="install_third_number">Установлено сторонних приложений %s.</string>
     <string name="manageapplications_settings_title">Управление приложениями.</string>
-    <string name="manageapplications_settings_summary">"Управление установленными приложениями и их удаление.</string>
+    <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление.</string>
     <string name="applications_settings">Приложения</string>
     <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
     <string name="applications_settings_header">Настройки приложения</string>
@@ -134,7 +137,7 @@
     <string name="manage_system_app_title">Системные приложения</string>
     <string name="manage_download_app_title">Установленные приложения</string>
     <string name="manage_runnig_app_title">Запущенные приложения</string>
-    <string name="runnig_app_title" formatted="false">Доступно: %s Мб, всего %s приложений.</string>
+    <string name="runnig_app_title" formatted="false">Доступно: %1$s Мб, всего %2$s приложений.</string>
     <string name="folder_out_of_space">Нет места в этой папке.</string>
     <string name="no_recent_tasks">Нет недавних приложений.</string>
     <string name="add_widget">Добавить виджет</string>
@@ -158,6 +161,7 @@
     <string name="friday">Пятница</string>
     <string name="saturday">Суббота</string>
     <string name="sunday">Воскресенье</string>
+    <string name="format_day_of_week">EEEE</string>    
     <string name="wallpaper_and_theme">Темы и обои</string>
     <string name="theme">Темы</string>
 </resources>

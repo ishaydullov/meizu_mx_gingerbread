@@ -6,7 +6,7 @@
     <string name="stop_service">Остановить службу</string>
     <string name="bind_service">Привязать к аккаунту</string>
     <string name="unbind_service">Отвязать от аккаунта</string>
-    <string name="broadcast_message">Push сообщения</string>
+    <string name="broadcast_message">Push-сообщения</string>
     <string name="Account">Аккаунт</string>
     <string name="Password">Пароль</string>
     <string name="bind">Включить</string>
@@ -20,7 +20,7 @@
     <string name="find_phone_closeing">Отключение службы определения местоположения. Подождите.</string>
     <string name="enable_started">Включение службы определения местоположения. Подождите.</string>
     <string name="company">[\\s-]*([\\u3010\\[]*\\s*(魅族公司|魅族科技|珠海魅族|魅族)*\\s*[\\u3011\\]]*\\s*)$</string>
-    <string name="login_faiured">Неправильный пароль. Введите ещё раз.</string>
+    <string name="login_faiured">Неверный пароль. Введите ещё раз.</string>
     <string name="enable_alert">Включить службу поиска. Может взиматься плата за SMS сообщения.</string>
     <string name="remote_message">Удалённая информация</string>
     <string name="sim_unsupported">В настоящий момент услуга недоступна в вашем регионе.</string>

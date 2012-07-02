@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Службы VPN</string>
-    <string name="vpn_notification_title_connected">%s VPN подключен</string>
-    <string name="vpn_notification_title_disconnected">%s VPN отключен</string>
-    <string name="vpn_notification_hint_disconnected">Подключить VPN.</string>
+    <string name="vpn_notification_title_connected">Сеть VPN %s подключена</string>
+    <string name="vpn_notification_title_disconnected">Сеть VPN %s отключена</string>
+    <string name="vpn_notification_hint_disconnected">Подключиться к сети VPN.</string>
 </resources>
