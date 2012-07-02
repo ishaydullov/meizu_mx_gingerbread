@@ -2,44 +2,18 @@
 <resources>
     <string-array name="slideshow_choices">
         <item>Нет</item>
-        <item>Random</item>
-        <item>Shutters</item>
-        <item>Fade</item>
-        <item>Grid</item>
+        <item>Случайно</item>
+        <item>Жалюзи</item>
+        <item>Затухание</item>
+        <item>Мозаика</item>
     </string-array>
     <string-array name="delayplay_choices">
-        <item>1с</item>
-        <item>2с</item>
-        <item>3с</item>
-        <item>4с</item>
-        <item>5с</item>
+        <item>1 cек.</item>
+        <item>2 cек.</item>
+        <item>3 cек.</item>
+        <item>4 cек.</item>
+        <item>5 cек.</item>
     </string-array>
-    <array name="main_pop">
-        <item>@string/strPlay</item>
-        <item>@string/strDelete</item>
-    </array>
-    <array name="pop_mainmenu_entire">
-        <item>@string/strMenuTrack</item>
-        <item>@string/strMenuSubtitle</item>
-        <item>@string/strMenuZoom</item>
-        <item>@string/strMenuRatio</item>
-    </array>
-    <string-array name="pop_mainmenu_entryvalues">
-        <item>auto</item>
-        <item>on</item>
-        <item>off</item>
-        <item>123</item>
-    </string-array>
-    <array name="pop_submenu_zoom_entire">
-        <item>@string/strMenuZoomWidth</item>
-        <item>@string/strMenuZoomHeight</item>
-        <item>@string/strMenuZoomRatio</item>
-    </array>
-    <array name="pop_submenu_ratio_entire">
-        <item>@string/strMenuRatioDefault</item>
-        <item>@string/strMenuRatio16_9</item>
-        <item>@string/strMenuRatio4_3</item>
-    </array>
     <string-array name="months_abbreviated">
         <item>Янв</item>
         <item>Фев</item>
@@ -51,7 +25,7 @@
         <item>Авг</item>
         <item>Сен</item>
         <item>Окт</item>
-        <item>Нов</item>
+        <item>Ноя</item>
         <item>Дек</item>
     </string-array>
     <string-array name="share_items">

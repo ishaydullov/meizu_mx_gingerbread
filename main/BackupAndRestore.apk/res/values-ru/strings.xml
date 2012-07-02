@@ -49,7 +49,7 @@
     <string name="backup_mail_blacklist">Восстановление черного списка почты…</string>
     <string name="browser">История браузера</string>
     <string name="backup_browser">Сохранение истории браузера…</string>
-    <string name="restore_browser">Restoring истории браузера…</string>
+    <string name="restore_browser">Восстановление истории браузера…</string>
     <string name="turnon_airplane_mode">Включение режима полета…</string>
     <string name="turnoff_airplane_mode">Выключение режима полета…</string>
     <string name="nodata_to_backup">Нет данных для резервного копирования</string>

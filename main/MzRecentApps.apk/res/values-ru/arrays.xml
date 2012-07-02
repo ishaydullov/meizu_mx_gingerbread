@@ -25,7 +25,7 @@
         <item>Сбой</item>
     </string-array>
     <string-array name="wifi_security">
-        <item>Open</item>
+        <item>Не защищена</item>
         <item>WEP</item>
         <item>WPA/WPA2 PSK</item>
         <item>802.1x EAP</item>
@@ -33,7 +33,7 @@
         <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
+        <item>Не защищена</item>
         <item>WPA2 PSK</item>
     </string-array>
     <string-array name="wifi_wapi_psk_type">
@@ -52,17 +52,12 @@
         <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>После отключения экрана</item>
-        <item>Никогда (увеличивает расход трафика)</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>При выключении экрана</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
-        <item>Количество запусков</item>
+        <item>Начать подсчет</item>
         <item>Название приложения</item>
     </string-array>
     <string-array name="wifi_eap_entries">

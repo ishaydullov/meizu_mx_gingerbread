@@ -153,21 +153,11 @@
         <item>Нет</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
+        <item>PAP или CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Внутренняя память устройства</item>
-        <item>Съёмная SD-карта</item>
+        <item>Съемная SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
     <string-array name="vibrate_entries">
@@ -200,10 +190,10 @@
         <item>Великобритания</item>
         <item>Франция</item>
         <item>Китай</item>
-        <item>Гонконг (Традиционный)</item>
-        <item>Гонконг (Упрощённый)</item>
-        <item>Макао (Традиционный)</item>
-        <item>Макао (Simplified)</item>
+        <item>Гонконг (Трад.)</item>
+        <item>Гонконг (Упрощ.)</item>
+        <item>Макао (Трад.)</item>
+        <item>Макао (Упрощ.)</item>
         <item>Тайвань</item>
         <item>Россия</item>
         <item>Индонезия</item>
@@ -213,45 +203,5 @@
         <item>Канада</item>
         <item>Италия</item>
         <item>Венгрия</item>
-    </string-array>
-    <string-array name="code_array">
-        <item>windows-1250</item>
-        <item>windows-1252</item>
-        <item>windows-1252</item>
-        <item>windows-1252</item>
-        <item>gbk</item>
-        <item>big5</item>
-        <item>gbk</item>
-        <item>big5</item>
-        <item>gbk</item>
-        <item>big5</item>
-        <item>windows-1251</item>
-        <item>windows-1252</item>
-        <item>windows-1252</item>
-        <item>windows-1253</item>
-        <item>windows-1252</item>
-        <item>windows-1252</item>
-        <item>windows-1252</item>
-        <item>windows-1250</item>
-    </string-array>
-    <string-array name="region_array">
-        <item>cs</item>
-        <item>de</item>
-        <item>gb</item>
-        <item>fr</item>
-        <item>cn</item>
-        <item>hk-tw</item>
-        <item>hk-cn</item>
-        <item>mo-tw</item>
-        <item>mo-cn</item>
-        <item>tw</item>
-        <item>ru</item>
-        <item>in</item>
-        <item>us</item>
-        <item>el</item>
-        <item>nl</item>
-        <item>ca</item>
-        <item>it</item>
-        <item>hu</item>
     </string-array>
 </resources>

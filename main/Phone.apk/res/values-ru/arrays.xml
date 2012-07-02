@@ -1,54 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
-    </string-array>
-    <array name="sip_call_options_entries">
-        <item>@string/sip_call_options_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
-    </array>
-    <array name="sip_call_options_wifi_only_entries">
-        <item>@string/sip_call_options_wifi_only_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
-    </array>
-    <array name="sip_call_options_values">
-        <item>@string/sip_always</item>
-        <item>@string/sip_address_only</item>
-        <item>@string/sip_ask_me_each_time</item>
-    </array>
-    <array name="phone_type_values">
-        <item>@string/pstn_phone</item>
-        <item>@string/internet_phone</item>
-    </array>
-    <array name="sip_send_keepalive_options">
-        <item>@string/sip_system_decide</item>
-        <item>@string/sip_always_send_keepalive</item>
-    </array>
-    <array name="allowed_incall_mode_entries">
-        <item>@string/allowed_incall_mode_all</item>
-        <item>@string/allowed_incall_mode_contacts</item>
-        <item>@string/allowed_incall_mode_groups</item>
-    </array>
     <string-array name="clir_display_values">
         <item>Настройки сети по умолчанию</item>
         <item>Скрыть номер</item>
         <item>Показывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>Global</item>
+        <item>По всему миру</item>
         <item>Только EvDo</item>
         <item>CDMA без EvDo</item>
-        <item>CDMA/EvDo (автоматический режим)</item>
-        <item>GSM/WCDMA (автоматический режим)</item>
+        <item>CDMA / EvDo (автоматический режим)</item>
+        <item>GSM / WCDMA (автоматический режим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>GSM/WCDMA (предпочтительная сеть)</item>
+        <item>GSM / WCDMA (предпочтительная сеть)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple">
-        <item>GSM/WCDMA (автоматический режим)</item>
+        <item>GSM / WCDMA (автоматический режим)</item>
         <item>Только GSM</item>
         <item>Только WCDMA</item>
     </string-array>
@@ -69,7 +37,7 @@
         <item>GSM/WCDMA (автоматический режим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>GSM/WCDA (предпочтительно WCDMA)</item>
+        <item>GSM/WCDMA (предпочтительно WCDMA)</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Только домашняя</item>

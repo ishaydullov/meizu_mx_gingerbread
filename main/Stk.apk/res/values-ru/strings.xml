@@ -20,5 +20,5 @@
     <string name="stkLaunchBrowserComfirm">Ваша SIM-карта пытается запустить браузер:</string>
     <string name="stkSendSms">Отправка SMS</string>
     <string name="stk_parent_title">Настройки</string>
-    <string name="stk_title">Инструменты SIM-карты</string>
+    <string name="stk_title">SIM-меню</string>
 </resources>

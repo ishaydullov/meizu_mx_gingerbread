@@ -34,17 +34,15 @@
     <string name="google_show_web_suggestions_summary_enabled">Показывать подсказки при вводе поискового запроса</string>
     <string name="google_show_web_suggestions_summary_disabled">"Не показывать подсказки при вводе поискового запроса"</string>
     <string name="voice_search_hint_title">Попробуйте сказать:</string>
-    <string name="voice_search_hint_quotation_start">“</string>
-    <string name="voice_search_hint_quotation_end">”</string>
     <string name="google_engine">Google</string>
     <string name="baidu_engine">Baidu</string>
     <string name="search_engine">Поисковая система</string>
     <string name="clear_history">Очистить историю</string>
     <string name="searchable_items">Где искать</string>
     <string name="clear_history_prompt">Очистить историю поиска?</string>
-    <string name="corpuslist_title">Items to search</string>
-    <string name="search_hint_g">Локальный или Google поиск</string>
-    <string name="search_hint">Локальный или %s поиск</string>
-    <string name="search_hint_b">Локальный или Baidu поиск</string>
+    <string name="corpuslist_title">Источники поиска</string>
+    <string name="search_hint_g">Локально или Google поиск</string>
+    <string name="search_hint">Локально или %s поиск</string>
+    <string name="search_hint_b">Локально или Baidu поиск</string>
     <string name="no_result">Нет совпадений</string>
 </resources>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Графический интерфейс системы</string>
+    <string name="app_label">Строка состояния</string>
     <string name="status_bar_clear_all_button">Очистить</string>
     <string name="status_bar_no_notifications_title">Нет уведомлений</string>
     <string name="status_bar_ongoing_events_title">Текущие</string>
