@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_device_id">522125666</string>
-    <string name="camera_error_title">Ошибка камеры. Перезагрузите телефон.</string>
+    <string name="camera_error_title">Ошибка камеры</string>
     <string name="cannot_connect_camera">Не удалось подключиться к камере.</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Видеокамера</string>
     <string name="gallery_camera_bucket_name">Снимки, сделанные камерой</string>
     <string name="gallery_camera_videos_bucket_name">Видео</string>
     <string name="wait">Подождите…</string>
-    <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
-    <string name="no_storage_mx">Отключите USB-накопитель перед использованием камеры.</string>
+    <string name="no_storage">Прежде чем использовать камеру, вставьте SD-карту.</string>
+    <string name="no_storage_mx">Прежде чем использовать камеру, отключите USB-накопитель.</string>
     <string name="not_enough_space">Ваша SD-карта заполнена.</string>
     <string name="not_enough_space_mx">Память телефона заполнена.</string>
-    <string name="preparing_sd">Подготовка карты SD…</string>
+    <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="preparing_sd_mx">Подготовка памяти телефона…</string>
     <string name="no_flie">Нет файла</string>
     <string name="confirm_restore_title">Восстановить настройки по умолчанию</string>
@@ -24,9 +24,10 @@
     <string name="camera_gallery_photos_text">Галерея</string>
     <string name="switch_camera_id">Переключить камеру</string>
     <string name="pref_camera_id_title">Выберите камеру</string>
+    <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_id_entry_back">Задняя</string>
     <string name="pref_camera_id_entry_front">Передняя</string>
-    <string name="pref_camera_recordlocation_title">Геотеги</string>
+    <string name="pref_camera_recordlocation_title">Записывать местоположение</string>
     <string name="pref_camera_recordlocation_default">Нет</string>
     <string name="pref_camera_recordlocation_entry_off">Выкл.</string>
     <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
@@ -38,7 +39,7 @@
     <string name="pref_video_quality_entry_youtube">YouTube (Высокое, 10 мин.)</string>
     <string name="pref_camera_settings_category">Настройки камеры</string>
     <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
-    <string name="pref_camera_picturesize_title">Размер фото</string>
+    <string name="pref_camera_picturesize_title">Размер фотографии</string>
     <string name="pref_camera_picturesize_entry_2592x1944">2592x1944</string>
     <string name="pref_camera_picturesize_entry_2048x1536">2048x1536</string>
     <string name="pref_camera_picturesize_entry_1600x1200">1600x1200</string>
@@ -47,6 +48,7 @@
     <string name="pref_camera_videosize_entry_1280x720">1280x720</string>
     <string name="pref_camera_videosize_entry_1080x720">1080x720</string>
     <string name="pref_camera_videosize_entry_720x480">720x480</string>
+    <string name="pref_camera_jpegquality_default">superfine</string>
     <string name="pref_camera_jpegquality_title">Качество изображения</string>
     <string name="pref_camera_jpegquality_entry_superfine">Отличное</string>
     <string name="pref_camera_jpegquality_entry_fine">Хорошее</string>
@@ -71,24 +73,24 @@
     <string name="pref_camera_whitebalance_entry_outdoor">На улице</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
     <string name="pref_camera_coloreffect_default">Нет</string>
-    <string name="pref_camera_coloreffect_title">Эффект</string>
+    <string name="pref_camera_coloreffect_title">Цветовые эффекты</string>
     <string name="pref_camera_coloreffect_entry_none">Нет</string>
-    <string name="pref_camera_coloreffect_entry_mono">Моно</string>
+    <string name="pref_camera_coloreffect_entry_mono">Монохром</string>
     <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
     <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
     <string name="pref_camera_coloreffect_entry_solarize">Соляризация</string>
     <string name="pref_camera_coloreffect_entry_posterize">Постеризация</string>
-    <string name="pref_camera_coloreffect_entry_aqua">Аква</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Под водой</string>
     <string name="pref_camera_coloreffect_entry_pastel">Пастель</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
     <string name="pref_camera_coloreffect_entry_redtint">Красный оттенок</string>
     <string name="pref_camera_coloreffect_entry_bluetint">Синий оттенок</string>
     <string name="pref_camera_coloreffect_entry_greentint">Зеленый оттенок</string>
     <string name="pref_camera_scenemode_default">Авто</string>
-    <string name="pref_camera_scenemode_title">Режим съемки</string>
+    <string name="pref_camera_scenemode_title">Сцена</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
     <string name="pref_camera_scenemode_entry_night">Ночь</string>
-    <string name="pref_camera_scenemode_entry_sports">Действие</string>
+    <string name="pref_camera_scenemode_entry_sports">Спорт</string>
     <string name="pref_camera_scenemode_entry_letter">Текст</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
     <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
@@ -99,16 +101,16 @@
     <string name="pref_camera_quickcapture_entry_on">Вкл.</string>
     <string name="pref_camera_quickcapture_entry_off">Выкл.</string>
     <string name="pref_restore_title">Настройки камеры</string>
-    <string name="pref_restore_detail">Восстановить настройки по умолчанию</string>
+    <string name="pref_restore_detail">Настройки по умолчанию</string>
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="details_ok">OK</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="spaceIsLow_content_mx">Место в памяти телефона заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
 
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
-    <string name="zoom_control_title">Zoom</string>
-    <string name="switch_to_camera_lable">Переключиться на камеру</string>
-    <string name="switch_to_video_lable">Переключиться на видеокамеру</string>
+    <string name="zoom_control_title">Масштаб</string>
+    <string name="switch_to_camera_lable">Переключить на фото</string>
+    <string name="switch_to_video_lable">Переключить на видео</string>
     <string name="video_saving">Сохранение</string>
     <string name="setting_view_title">Настройки</string>
     <string name="recording">Запись…</string>
@@ -117,7 +119,7 @@
     <string name="panoramic_photo_processing">Обработка фотографии…</string>
     <string name="mutil_photo_processing">Обработка фотографии…</string>
     <string name="hdmi_cannot_used_camera">Выйдите из режима HDMI</string>
-    <string name="take_photo_fail">Сбой съёмки</string>
-    <string name="press_the_shttuer">Нажмите затвор для начала съемки улыбающихся</string>
+    <string name="take_photo_fail">Сбой съемки</string>
+    <string name="press_the_shttuer">Нажмите затвор для начала съемки улыбающихся лиц</string>
     <string name="press_panoram_mode_tip">Нажмите затвор и медленно двигайте камеру в одном направлении</string>
 </resources>

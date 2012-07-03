@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="camera_video_size_array">
         <item>1280x720</item>
@@ -28,25 +28,25 @@
         <item>1280x960</item>
     </string-array>
     <string-array name="camera_cameramenu_array">
-        <item>Геотеги</item>
-        <item>Режим съёмки</item>
+        <item>Местоположение</item>
+        <item>Сцена</item>
         <item>Размер фото</item>
         <item>Баланс белого</item>
-        <item>Захват жестом</item>
+        <item>Съемка жестом</item>
     </string-array>
     <string-array name="camera_mx_cameramenu_array">
-        <item>Режим захвата</item>
+        <item>Режим съемки</item>
         <item>ISO</item>
-        <item>Режим съёмки</item>
-        <item>WDR</item>
+        <item>Сцена</item>
+        <item>Режим WDR</item>
         <item>Размер фотографии</item>
         <item>Баланс белого</item>
-        <item>Геотеги</item>
+        <item>Местоположение</item>
         <item>Съемка жестом</item>
     </string-array>
     <string-array name="camera_mx_videomenu_array">
         <item>Размер видео</item>
-        <item>Режим съёмки</item>
+        <item>Сцена</item>
         <item>Баланс белого</item>
     </string-array>
     <string-array name="camera_mx_pic_size_array">
@@ -59,11 +59,11 @@
     <string-array name="camera_mx_white_balance">
         <item>Авто</item>
         <item>Лампа накаливания</item>
-        <item>Лампа дневного света</item>
-        <item>Лампа дневного света (тёплая))</item>
+        <item>Флуоресцент. свет</item>
+        <item>Флуоресцент. свет (теплый)</item>
         <item>Дневной свет</item>
         <item>Пасмурно</item>
-        <item>Тень</item>
+        <item>Сумерки</item>
         <item>Горизонт</item>
     </string-array>
     <string-array name="camera_mx_scence_array_photo">
@@ -120,6 +120,5 @@
         <item>1080x720</item>
         <item>720x480</item>
     </string-array>
-
     <item type="array" name="APKTOOL_DUMMY_0034">false</item>
 </resources>
