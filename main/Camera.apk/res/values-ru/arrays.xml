@@ -32,17 +32,17 @@
         <item>Сцена</item>
         <item>Размер фото</item>
         <item>Баланс белого</item>
-        <item>Съемка жестом</item>
+        <item>Съёмка жестом</item>
     </string-array>
     <string-array name="camera_mx_cameramenu_array">
-        <item>Режим съемки</item>
+        <item>Режим съёмки</item>
         <item>ISO</item>
         <item>Сцена</item>
         <item>Режим WDR</item>
         <item>Размер фотографии</item>
         <item>Баланс белого</item>
         <item>Местоположение</item>
-        <item>Съемка жестом</item>
+        <item>Съёмка жестом</item>
     </string-array>
     <string-array name="camera_mx_videomenu_array">
         <item>Размер видео</item>
@@ -60,7 +60,7 @@
         <item>Авто</item>
         <item>Лампа накаливания</item>
         <item>Флуоресцент. свет</item>
-        <item>Флуоресцент. свет (теплый)</item>
+        <item>Флуоресцент. свет (тёплый)</item>
         <item>Дневной свет</item>
         <item>Пасмурно</item>
         <item>Сумерки</item>

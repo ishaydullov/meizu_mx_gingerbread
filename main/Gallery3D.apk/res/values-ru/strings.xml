@@ -51,7 +51,7 @@
     <string name="location_unknown">Местоположение неизвестно</string>
     <string name="title">Название</string>
     <string name="type">Тип</string>
-    <string name="taken_on">Дата съемки</string>
+    <string name="taken_on">Дата съёмки</string>
     <string name="added_on">Дата добавления</string>
     <string name="show_on_map">Показать на карте</string>
     <string name="rotate_left">Повернуть влево</string>
@@ -90,7 +90,7 @@
     <string name="video">Видео</string>
     <string name="video_items_count_in_set">(%d видео)</string>
     <string name="image_items_count_in_set">(%d фото)</string>
-    <string name="my_video">Мое видео</string>
+    <string name="my_video">Моё видео</string>
     <string name="set_wallpaper_lock">Экран блокировки</string>
     <string name="set_wallpaper_home">Рабочий стол</string>
     <string name="deleting">Удаление…</string>
@@ -128,7 +128,7 @@
     <string name="attachment_exceed">Размер вложений превышает лимит %s</string>
     <string name="cannot_display">Ошибка отображения</string>
     <string name="dlna_available_devices">Доступные устройства</string>
-    <string name="dlna_local_device">Локальное воспроизведение</string>
+    <string name="dlna_local_device">Meizu MX</string>
     <string name="dlna_buffering">Буферизация</string>
     <string name="dlna_unsupported_file">Формат файла не поддерживается.</string>
 </resources>

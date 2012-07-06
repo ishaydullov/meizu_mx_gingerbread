@@ -5,7 +5,7 @@
     <string name="delete_alarm">Удалить будильник</string>
     <string name="enable_alarm">Включить будильник</string>
     <string name="disable_alarm">Выключить будильник</string>
-    <string name="delete_alarm_confirm">Сигнал будет удален.</string>
+    <string name="delete_alarm_confirm">Сигнал будет удалён.</string>
     <string name="show_clock">Показать часы</string>
     <string name="hide_clock">Спрятать часы</string>
     <string name="label">Описание</string>

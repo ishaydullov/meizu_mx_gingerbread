@@ -1239,8 +1239,8 @@
     <string name="clear_networkset">Удалить настройки сети</string>
     <string name="clear_dictor">Удалить словарь пользователя</string>
     <string name="clear_private_button_text">Удалить данные</string>
-    <string name="backup_and_recover_settings">Резервное копирование и восстановление</string>
-    <string name="backup_and_recover_settings_summary">Сохранять резервные копии данных и настроек на SD-карте</string>
+    <string name="backup_and_recover_settings">Резервное копирование</string>
+    <string name="backup_and_recover_settings_summary">Сохранение резервных копий данных и настроек на SD-карте</string>
     <string name="close_phone">Отключить телефон</string>
     <string name="brightness_mode_title">Режим авторегулировки</string>
     <string name="brightness_mode_summary">Режим авторегулировки яркости</string>

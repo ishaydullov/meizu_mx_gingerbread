@@ -5,8 +5,8 @@
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Неизвестное устройство</string>
     <string name="unknownNumber">Неизвестно</string>
-    <string name="airplane_error_title">Режим полета</string>
-    <string name="airplane_error_msg">"Невозможно использовать функцию Bluetooth в режиме полета."</string>
+    <string name="airplane_error_title">Режим полёта</string>
+    <string name="airplane_error_msg">"Невозможно использовать функцию Bluetooth в режиме полёта."</string>
     <string name="bt_enable_title">Bluetooth</string>
     <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth.</string>
     <string name="bt_enable_line2">Включить Bluetooth?</string>
@@ -18,9 +18,9 @@
     <string name="incoming_file_confirm_cancel">Отклонить</string>
     <string name="incoming_file_confirm_ok">Принять</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
-    <string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
+    <string name="incoming_file_confirm_timeout_content">В процессе приёма файла от \"%1$s\" произошел тайм-аут</string>
     <string name="incoming_file_confirm_Notification_title">Передача по Bluetooth: входящий файл</string>
-    <string name="incoming_file_confirm_Notification_caption">Подтвердите прием этого файла.</string>
+    <string name="incoming_file_confirm_Notification_caption">Подтвердите приём этого файла.</string>
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
     <string name="notification_receiving">Передача по Bluetooth: получение файла %1$s</string>
     <string name="notification_received">Передача по Bluetooth: файл %1$s получен</string>
@@ -76,7 +76,7 @@
     <string name="status_not_accept">"Телефон не может обработать этот тип содержания."</string>
     <string name="status_forbidden">Передача запрещена на принимающем устройстве</string>
     <string name="status_canceled">Передача отменена пользователем.</string>
-    <string name="status_file_error">SОшибка хранилища</string>
+    <string name="status_file_error">Ошибка хранилища</string>
     <string name="status_no_sd_card">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_connection_error">Ошибка подключения</string>
     <string name="status_protocol_error">Невозможно правильно обработать запрос.</string>

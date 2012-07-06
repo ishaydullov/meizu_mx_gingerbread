@@ -40,8 +40,8 @@
     <string name="alert_title">Уведомления календаря</string>
     <string name="alert_when_label">Когда:</string>
     <string name="alert_where_label">Где:</string>
-    <string name="alert_missed_events_single">(ещё %s  напоминание)</string>
-    <string name="alert_missed_events_multiple">(еще напоминаний: %s)</string>
+    <string name="alert_missed_events_single">(ещё %s напоминание)</string>
+    <string name="alert_missed_events_multiple">(ещё напоминаний: %s)</string>
     <string name="event_info_title">Просмотр мероприятия</string>
     <string name="event_info_title_invite">Приглашение на встречу</string>
     <string name="add_new_reminder">Добавить напоминание</string>
@@ -51,7 +51,7 @@
     <string name="edit_event_calendar_label">Календарь</string>
     <string name="edit_event_show_extra_options">Показать дополнительные параметры</string>
     <string name="edit_event_hide_extra_options">Скрыть дополнительные параметры</string>
-    <string name="edit_event_show_all">Показать все &gt;></string>
+    <string name="edit_event_show_all">Показать всё &gt;></string>
     <string name="description_label">Описание</string>
     <string name="presence_label">Мой статус:</string>
     <string name="privacy_label">Конфиденциальность</string>
@@ -99,7 +99,7 @@
     <string name="preferences_title">Настройки</string>
     <string name="preferences_general_title">Мероприятия</string>
     <string name="preferences_alerts_title">Настройки напоминаний</string>
-    <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
+    <string name="preferences_hide_declined_title">Скрыть отклонённые</string>
     <string name="preferences_alerts_type_title">Настроить уведомления</string>
     <string name="preferences_alerts_type_dialog">Оповещения и уведомления</string>
     <string name="preferences_alerts_vibrate_title">Вибросигнал</string>

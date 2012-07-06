@@ -16,7 +16,7 @@
     <string name="dialog_queued_body">Файл поставлен очередь для загрузки.</string>
     <string name="dialog_file_missing_body">Загруженный файл не найден.</string>
     <string name="dialog_insufficient_space_on_external">Сбой загрузки. Недостаточно места на SD-карте.</string>
-    <string name="dialog_insufficient_space_on_cache">Сбой загрузки. Недостаточно места во внутр. хранилище.</string>
+    <string name="dialog_insufficient_space_on_cache">Сбой загрузки. Недостаточно места во внутр. памяти.</string>
     <string name="dialog_cannot_resume">Сбой загрузки. Продолжение невозможно.</string>
     <string name="dialog_file_already_exists">Сбой загрузки. Файл назначения уже существует.</string>
     <string name="dialog_media_not_found">Сбой загрузки. Вставьте SD-карту.</string>
@@ -26,10 +26,10 @@
     <string name="keep_queued_download">Оставить</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="retry_download">Ещё раз</string>
-    <string name="deselect_all">Удалить выбранное</string>
+    <string name="deselect_all">Очистить выбранное</string>
     <string name="all_pause">Приостановить все</string>
     <string name="all_start">Возобовить все</string>
-    <string name="clear_done">Удалить загруженное</string>
+    <string name="clear_done">Очистить список</string>
     <string name="download_pause">Загрузка приостановлена</string>
     <string name="download_failed">Сбой загрузки</string>
     <string name="download_directory">Папки загрузки</string>

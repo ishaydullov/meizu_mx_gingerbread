@@ -24,10 +24,10 @@
     <string name="ssl_continue">Продолжить</string>
     <string name="security_warning">Угроза безопасности</string>
     <string name="view_certificate">Просмотреть сертификат</string>
-    <string name="ssl_untrusted">Этот сертификат получен из ненадежных источников.</string>
+    <string name="ssl_untrusted">Этот сертификат получен из ненадёжных источников.</string>
     <string name="ssl_mismatch">Название сайта не соответствует названию в сертификате.</string>
     <string name="ssl_expired">Срок действия сертификата истек.</string>
-    <string name="ssl_not_yet_valid">Данный сертификат еще недействителен.</string>
+    <string name="ssl_not_yet_valid">Данный сертификат ещё недействителен.</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="issued_to">Владелец сертификата:</string>
@@ -42,7 +42,7 @@
     <string name="stop">Стоп</string>
     <string name="reload">Обновить</string>
     <string name="back">Назад</string>
-    <string name="forward">Вперед</string>
+    <string name="forward">Вперёд</string>
     <string name="save">OK</string>
     <string name="do_not_save">Отмена</string>
     <string name="location">URL-адрес</string>
@@ -129,14 +129,14 @@
     <string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
     <string name="pref_privacy_clear_cookies_dlg">Все файлы cookie будут удалены.</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
-    <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
+    <string name="pref_privacy_clear_history_summary">Очистить список посещённых в Интернете страниц</string>
     <string name="pref_privacy_clear_history_dlg">История браузера будет очищена.</string>
     <string name="pref_privacy_clear_form_data">Очистить данные формы</string>
-    <string name="pref_privacy_clear_form_data_summary">Очистить все сохраненные данные форм</string>
-    <string name="pref_privacy_clear_form_data_dlg">Все данные сохраненных форм будут удалены.</string>
+    <string name="pref_privacy_clear_form_data_summary">Очистить все сохранённые данные форм</string>
+    <string name="pref_privacy_clear_form_data_dlg">Все данные сохранённых форм будут удалены.</string>
     <string name="pref_privacy_clear_passwords">Очистить пароли</string>
-    <string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
-    <string name="pref_privacy_clear_passwords_dlg">Все сохраненные пароли будут удалены.</string>
+    <string name="pref_privacy_clear_passwords_summary">Удалить все сохранённые пароли</string>
+    <string name="pref_privacy_clear_passwords_dlg">Все сохранённые пароли будут удалены.</string>
     <string name="pref_privacy_enable_geolocation">Доступ к геоданным</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать доступ к данным о вашем местоположении</string>
     <string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
@@ -146,7 +146,7 @@
     <string name="pref_security_remember_passwords">Сохранять пароли</string>
     <string name="pref_security_remember_passwords_summary">Сохранять имена пользователей и пароли веб-сайтов</string>
     <string name="pref_security_save_form_data">Сохранять данные форм</string>
-    <string name="pref_security_save_form_data_summary">Запоминать введенные в формы данные для дальнейшего использования</string>
+    <string name="pref_security_save_form_data_summary">Запоминать введённые в формы данные для дальнейшего использования</string>
     <string name="pref_security_show_security_warning">Предупреждать об опасности</string>
     <string name="pref_security_show_security_warning_summary">"Предупреждать при обнаружении на сайтах угроз для безопасности"</string>
     <string name="pref_security_accept_cookies">Разрешить cookie</string>
@@ -178,7 +178,7 @@
     <string name="browserFrameNetworkErrorLabel">Проблема с подключением</string>
     <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
     <string name="browserFrameFormResubmitLabel">Подтвердить</string>
-    <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь просмотреть, содержит уже отправленные данные (POSTDATA). Если отправить их еще раз, произойдет повтор всех действий, которые форма выполнила на странице (например поиск или покупка через Интернет).</string>
+    <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь просмотреть, содержит уже отправленные данные (POSTDATA). Если отправить их ещё раз, произойдёт повтор всех действий, которые форма выполнила на странице (например поиск или покупка через Интернет).</string>
     <string name="loadSuspendedTitle">Сетевое подключение отсутствует</string>
     <string name="loadSuspended">Браузер не может загрузить эту страницу, так как отсутствует подключение к Интернету.</string>
     <string name="clear_history">Очистить историю</string>
@@ -207,7 +207,7 @@
     <string name="download_menu_cancel_all">Отменить все загрузки</string>
     <string name="download_cancel_dlg_title">Отменить загрузки</string>
     <string name="download_cancel_dlg_msg">Все загрузки (%d)  будут отменены и удалены из истории загрузок.</string>
-    <string name="download_delete_file">Файл будет удален</string>
+    <string name="download_delete_file">Файл будет удалён</string>
     <string name="download_file_error_dlg_title">Недостаточно места</string>
     <string name="download_file_error_dlg_msg">"Невозможно загрузить %s."\n"Освободите место в памяти телефона и повторите попытку."</string>
     <string name="download_failed_generic_dlg_title">Ошибка загрузки</string>
@@ -228,7 +228,7 @@
     <string name="download_canceled">Загрузка отменена.</string>
     <string name="download_not_acceptable">Загрузка невозможна. Содержание не поддерживается телефоном.</string>
     <string name="download_file_error">Невозможно завершить загрузку. Недостаточно места.</string>
-    <string name="download_length_required">Загрузка невозможна. Размер файла не определен.</string>
+    <string name="download_length_required">Загрузка невозможна. Размер файла не определён.</string>
     <string name="download_precondition_failed">Загрузка прервана и не может быть возобновлена.</string>
     <string name="dump_nav">Dump navigation cache</string>
     <string name="dump_counters">Dump V8 counters</string>
@@ -237,12 +237,12 @@
     <string name="search_the_web">Поиск в Интернете</string>
     <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
     <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место.</string>
-    <string name="webstorage_clear_data_title">Удалить сохраненные данные</string>
-    <string name="webstorage_clear_data_dialog_title">Удалить сохраненные данные</string>
-    <string name="webstorage_clear_data_dialog_message">Все данные, сохраненные этим веб-сайтом, будут удалены</string>
-    <string name="webstorage_clear_data_dialog_ok_button">Удалить все</string>
+    <string name="webstorage_clear_data_title">Удалить сохранённые данные</string>
+    <string name="webstorage_clear_data_dialog_title">Удалить сохранённые данные</string>
+    <string name="webstorage_clear_data_dialog_message">Все данные, сохранённые этим веб-сайтом, будут удалены</string>
+    <string name="webstorage_clear_data_dialog_ok_button">Удалить всё</string>
     <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
-    <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
+    <string name="webstorage_origin_summary_mb_stored">Объём занятой памяти телефона (МБ)</string>
     <string name="loading_video">Загрузка видео</string>
     <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
@@ -278,8 +278,8 @@
     <string name="tab_more_browse">Просмотренные ранее</string>
     <string name="edit_bookmarks">Редактировать закладку</string>
     <string name="add_desktop">Добавить на рабочий стол</string>
-    <string name="mail_url">Отправить URL по почте</string>
-    <string name="send_url">Отправить URL по SMS</string>
+    <string name="mail_url">Отправить ссылку по почте</string>
+    <string name="send_url">Отправить ссылку по SMS</string>
     <string name="download_list">Загрузки</string>
     <string name="select_all">Выбрать все</string>
     <string name="cancel_all">Отменить все</string>
@@ -337,7 +337,7 @@
     <string name="default_cannot_delete">Категория по-умолчанию не может быть удалена</string>
     <string name="pref_content_open_with_systemplayer">Включить системный плеер</string>
     <string name="click_to_play">Страница содержит видео. Нажмите для просмотра.</string>
-    <string name="dialog_setting_title">Еще</string>
+    <string name="dialog_setting_title">Ещё</string>
     <string name="browser_useragent">Идентификация браузера</string>
     <string name="useragent_hint">Идентификация влияет на вид страницы и форматы видео</string>
 </resources>

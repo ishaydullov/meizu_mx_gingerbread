@@ -26,10 +26,10 @@
     <string name="backup_user_dict">Сохранение словаря…</string>
     <string name="restore_user_dict">Восстановление словаря…</string>
     <string name="restore_prompt">Восстановить данные из резервной копии?</string>
-    <string name="restore_prompt_message">"Запуск операции приведет к удалению несохраненных данных
+    <string name="restore_prompt_message">"Запуск операции приведет к удалению несохранённых данных
 Телефон будет перезагружен после завершения восстановления"</string>
     <string name="delete_export_file">"
-Экспортированный файл удален."</string>
+Экспортированный файл удалён."</string>
     <string name="backup_prompt">Создать резервную копию?</string>
     <string name="delete_prompt">Удалить резервную копию?</string>
     <string name="delete_multi_backup">Удаление резервной копии…</string>
@@ -39,24 +39,24 @@
     <string name="restore_alarm">Восстановление будильника…</string>
     <string name="backup_email">Сохранение почты…</string>
     <string name="restore_email">Восстановление почты…</string>
-    <string name="restore_sms_spam_address">Сохранение спам листа SMS…</string>
-    <string name="backup_sms_spam_address">Восстановление спам листа SMS…</string>
-    <string name="restore_sms_spam_keyword">Сохранение спам листа ключевых слов SMS…</string>
-    <string name="backup_sms_spam_keyword">Восстановление спам листа ключевых слов SMS…</string>
-    <string name="restore_contcat_blacklist">Сохранение черного списка контактов…</string>
-    <string name="backup_contcat_blacklist">Восстановление черного списка контактов…</string>
-    <string name="restore_mail_blacklist">Сохранение  черного списка почты…</string>
-    <string name="backup_mail_blacklist">Восстановление черного списка почты…</string>
+    <string name="restore_sms_spam_address">Восстановление чёрного списка SMS…</string>
+    <string name="backup_sms_spam_address">Сохранение чёрного списка SMS…</string>
+    <string name="restore_sms_spam_keyword">Сохранение чёрного списка ключевых слов SMS…</string>
+    <string name="backup_sms_spam_keyword">Восстановление чёрного списка ключевых слов SMS…</string>
+    <string name="restore_contcat_blacklist">Восстановление чёрного списка контактов…</string>
+    <string name="backup_contcat_blacklist">Сохранение чёрного списка контактов…</string>
+    <string name="restore_mail_blacklist">Восстановление чёрного списка почты…</string>
+    <string name="backup_mail_blacklist">Сохранение чёрного списка почты…</string>
     <string name="browser">История браузера</string>
     <string name="backup_browser">Сохранение истории браузера…</string>
     <string name="restore_browser">Восстановление истории браузера…</string>
-    <string name="turnon_airplane_mode">Включение режима полета…</string>
-    <string name="turnoff_airplane_mode">Выключение режима полета…</string>
+    <string name="turnon_airplane_mode">Включение режима полёта…</string>
+    <string name="turnoff_airplane_mode">Выключение режима полёта…</string>
     <string name="nodata_to_backup">Нет данных для резервного копирования</string>
     <string name="backup_lable_first_level">Данные пользователя и SD-карта</string>
     <string name="backup_lable_second_level">Резервное копирование и восстановление</string>
-    <string name="backup_btn_title">Резервное копирование пользовательских данных</string>
-    <string name="backup_btn_summary">Резервное копирование пользовательских данных и настроек на SD-карту</string>
+    <string name="backup_btn_title">Создать резервную копию</string>
+    <string name="backup_btn_summary">Создание резервной копии</string>
     <string name="backup_lable_exist_file">Существующие копии</string>
     <string name="restore_preprocess_contact">Подготовка контактов…</string>
     <string name="restore_preprocess_msg">Подготовка сообщений…</string>
@@ -65,7 +65,7 @@
     <string name="select_all_cancel">Назад</string>
     <string name="delete">Удалить</string>
     <string name="select_vcard_message">Выберите файл для импорта</string>
-    <string name="contactsList">Контакты и черный список</string>
+    <string name="contactsList">Контакты и чёрный список</string>
     <string name="recentCallsIconLabel">Список вызовов</string>
     <string name="email">Почта и чёрный список</string>
     <string name="settings">Настройки</string>

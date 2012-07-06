@@ -4,9 +4,9 @@
     <string name="sync_settings">Настройки аккаунтов и синхронизации</string>
     <string name="sync_too_many_deletes">Превышен предел удаления</string>
     <string name="background_data">Фоновый режим</string>
-    <string name="background_data_summary">Синхронизация, отправка и прием данных возможны в любое время</string>
+    <string name="background_data_summary">Синхронизация, отправка и приём данных возможны в любое время</string>
     <string name="background_data_dialog_title">Внимание!</string>
-    <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит энергию батареи и уменьшает объем трафика. Однако некоторые приложения смогут, тем не менее, продолжить использование фоновой передачи даже после ее отключения.</string>
+    <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит энергию батареи и уменьшает объём трафика. Однако некоторые приложения смогут, тем не менее, продолжить использование фоновой передачи даже после её отключения.</string>
     <string name="sync_automatically">Автосинхронизация</string>
     <string name="sync_automatically_summary">Приложения синхронизируют данные автоматически по расписанию</string>
     <string name="settings_backup">Создать резервную копию настроек</string>
@@ -18,11 +18,11 @@
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Календарь</string>
     <string name="sync_contacts">Контакты</string>
-    <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d аккаунт: %3$s. Что нужно сделать?</string>
+    <string name="sync_too_many_deletes_desc">Удалённых объектов для %2$s: %1$d аккаунт: %3$s. Что нужно сделать?</string>
     <string name="sync_really_delete">Удалить элементы.</string>
     <string name="sync_undo_deletes">Отменить удаление.</string>
     <string name="sync_do_nothing">Ничего не делать сейчас.</string>
-    <string name="sync_is_failing">Проблемы с синхронизацией. Скоро все снова будет работать.</string>
+    <string name="sync_is_failing">Проблемы с синхронизацией. Скоро всё снова будет работать.</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Добро пожаловать в Google Sync!</font>" 
 Подход Google к синхронизации данных, позволяющий получить данные о контактах, встречах и многом другом, где бы вы ни были."</string>
     <string name="header_application_sync_settings">Настройки синхронизации приложения</string>
@@ -39,12 +39,12 @@
     <string name="header_add_an_account">Добавить аккаунт</string>
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Удалить аккаунт</string>
-    <string name="really_remove_account_message">Вы действительно хотите удалить этот аккаунт? Это приведет к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне. "\n"Продолжить?</string>
+    <string name="really_remove_account_message">Вы действительно хотите удалить этот аккаунт? Это приведёт к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне. "\n"Продолжить?</string>
     <string name="remove_account_failed">Данный аккаунт используется некоторыми приложениями. Чтобы удалить его, перейдите в меню \"Настройки\", выберите пункт \"Восстановление и сброс\" и нажмите \"Сброс настроек\". Обратите внимание: при этом все ваши личные данные будут также удалены с устройства.</string>
     <string name="provider_label">Подписки Push</string>
     <string name="sync_item_title">Синхр. %s</string>
     <string name="sync_item_title_acount">Аккаунт</string>
-    <string name="cant_sync_dialog_title">Не удается синхронизировать вручную</string>
+    <string name="cant_sync_dialog_title">Не удаётся синхронизировать вручную</string>
     <string name="cant_sync_dialog_message">Синхронизация для этого элемента отключена. Чтобы изменить настройку, временно разрешите использование фонового режима передачи данных и автоматическую синхронизацию.</string>
     <string name="default_contacts_account">Аккаунт контактов по умолчанию</string>
     <string name="account_device_only">Контакты телефона</string>

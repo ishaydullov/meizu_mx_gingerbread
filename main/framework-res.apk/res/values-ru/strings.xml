@@ -180,7 +180,7 @@
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
-    <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
+    <string name="mmiFdnError">Операция возможна только для разрешённых номеров.</string>
     <string name="serviceEnabled">Служба включена.</string>
     <string name="serviceEnabledFor">Служба подключена для:</string>
     <string name="serviceDisabled">Служба отключена.</string>
@@ -190,7 +190,7 @@
     <string name="mmiComplete">Запрос MMI завершен.</string>
     <string name="badPin">Введен неверный старый PIN.</string>
     <string name="badPuk">Введен неверный PUK.</string>
-    <string name="mismatchPin">Введенные PIN-коды не совпадают.</string>
+    <string name="mismatchPin">Введённые PIN-коды не совпадают.</string>
     <string name="invalidPin">Введите PIN-код (от 4 до 8 цифр).</string>
     <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
@@ -214,8 +214,8 @@
     <string name="PwdMmi">Смена пароля</string>
     <string name="PinMmi">Смена PIN</string>
     <string name="CnipMmi">Вызывающий номер присутствует</string>
-    <string name="CnirMmi">Вызывающий номер запрещен</string>
-    <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
+    <string name="CnirMmi">Вызывающий номер запрещён</string>
+    <string name="ThreeWCMmi">Вызов с участием трёх абонентов</string>
     <string name="RuacMmi">Отклонение нежелательных звонков</string>
     <string name="CndMmi">Доставка номера вызывающего абонента</string>
     <string name="DndMmi">Не беспокоить</string>
@@ -274,7 +274,7 @@
     <string name="httpErrorTimeout">Время ожидания соединения с сервером истекло.</string>
     <string name="httpErrorRedirectLoop">Страница содержит слишком много перенаправлений.</string>
     <string name="httpErrorFailedSslHandshake">Не удалось установить безопасное соединение.</string>
-    <string name="httpErrorFile">Не удается получить доступ к файлу.</string>
+    <string name="httpErrorFile">Не удаётся получить доступ к файлу.</string>
     <string name="httpErrorFileNotFound">Не удалось найти указанные файлы.</string>
     <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
     <string name="notification_title">Ошибка входа (%1$s)</string>
@@ -300,9 +300,9 @@
     <string name="global_action_toggle_silent_mode">Режим без звука</string>
     <string name="global_action_silent_mode_on_status">Звук выключен</string>
     <string name="global_action_silent_mode_off_status">Звук включен</string>
-    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
-    <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
-    <string name="global_actions_airplane_mode_off_status">Режим полета выключен</string>
+    <string name="global_actions_toggle_airplane_mode">Режим полёта</string>
+    <string name="global_actions_airplane_mode_on_status">Режим полёта включен</string>
+    <string name="global_actions_airplane_mode_off_status">Режим полёта выключен</string>
     <string name="global_actions_toggle_phone_close">Телефон выключен</string>
     <string name="safeMode">Безопасный режим</string>
     <string name="android_system_label">Система Android</string>
@@ -311,7 +311,7 @@
     <string name="permgrouplab_messages">Сообщения</string>
     <string name="permgroupdesc_messages">Считывать и записывать SMS, электронные письма и другие сообщения.</string>
     <string name="permgrouplab_personalInfo">Личная информация</string>
-    <string name="permgroupdesc_personalInfo">Прямой доступ к контактам и событиям календаря, сохраненным в памяти телефона.</string>
+    <string name="permgroupdesc_personalInfo">Прямой доступ к контактам и событиям календаря, сохранённым в памяти телефона.</string>
     <string name="permgrouplab_location">Ваше местоположение</string>
     <string name="permgroupdesc_location">Отслеживание физического местоположения</string>
     <string name="permgrouplab_network">Сетевой обмен данными</string>
@@ -343,9 +343,9 @@
     <string name="permlab_sendSms">отправлять SMS-сообщения</string>
     <string name="permdesc_sendSms">Позволяет приложению отправлять SMS-сообщения. Вредоносные приложения могут отправлять сообщения без уведомления, что приведет к непредвиденным расходам.</string>
     <string name="permlab_readSms">считывать SMS или MMS</string>
-    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, сохраненные на телефоне или SIM-карте. Вредоносные приложения могут считывать конфиденциальные сообщения.</string>
+    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, сохранённые на телефоне или SIM-карте. Вредоносные приложения могут считывать конфиденциальные сообщения.</string>
     <string name="permlab_writeSms">изменять SMS или MMS</string>
-    <string name="permdesc_writeSms">Позволяет приложению перезаписывать SMS-сообщения, сохраненные на телефоне или SIM-карте. Вредоносные приложения могут удалить сообщения.</string>
+    <string name="permdesc_writeSms">Позволяет приложению перезаписывать SMS-сообщения, сохранённые на телефоне или SIM-карте. Вредоносные приложения могут удалить сообщения.</string>
     <string name="permlab_receiveWapPush">получать WAP</string>
     <string name="permdesc_receiveWapPush">Позволяет приложению получать и обрабатывать WAP-сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их, не показывая вам.</string>
     <string name="permlab_getTasks">извлечь запущенные приложения</string>
@@ -365,7 +365,7 @@
     <string name="permlab_forceBack">принудительно закрывать приложения</string>
     <string name="permdesc_forceBack">Позволяет приложению принудительно закрыть или вернуть в исходное состояние процессы, выполняемые в активном режиме. Не требуется для обычных приложений.</string>
     <string name="permlab_dump">извлекать данные о внутреннем состоянии системы</string>
-    <string name="permdesc_dump">Позволяет приложению извлекать внутренние сведения о состоянии системы. Вредоносные приложения смогут извлечь разнообразные личные и защищенные сведения, в которых обычно нет необходимости.</string>
+    <string name="permdesc_dump">Позволяет приложению извлекать внутренние сведения о состоянии системы. Вредоносные приложения смогут извлечь разнообразные личные и защищённые сведения, в которых обычно нет необходимости.</string>
     <string name="permlab_shutdown">частичное завершение работы</string>
     <string name="permdesc_shutdown">Завершает работу диспетчера активности. Не выполняет полное завершение работы.</string>
     <string name="permlab_stopAppSwitches">запретить переключение приложений</string>
@@ -416,10 +416,10 @@
     <string name="permdesc_clearAppUserData">Позволяет приложению удалять данные пользователя.</string>
     <string name="permlab_deleteCacheFiles">очищать кэши других приложений</string>
     <string name="permdesc_deleteCacheFiles">Позволяет приложению удалять файлы из кэша.</string>
-    <string name="permlab_getPackageSize">определять объем памяти приложений</string>
+    <string name="permlab_getPackageSize">определять объём памяти приложений</string>
     <string name="permdesc_getPackageSize">Позволяет приложению получать сведения о размере кода, данных и кэша.</string>
     <string name="permlab_installPackages">устанавливать приложения непосредственно</string>
-    <string name="permdesc_installPackages">Позволяет приложению устанавливать новые или обновленные пакеты Android. Вредоносные приложения могут использовать эту возможность для добавления новых приложений со сколь угодно высоким уровнем разрешения.</string>
+    <string name="permdesc_installPackages">Позволяет приложению устанавливать новые или обновлённые пакеты Android. Вредоносные приложения могут использовать эту возможность для добавления новых приложений со сколь угодно высоким уровнем разрешения.</string>
     <string name="permlab_clearAppCache">удалять все данные из кэша приложений</string>
     <string name="permdesc_clearAppCache">Позволяет приложению освобождать память телефона с помощью удаления файлов из каталога кэша приложений. Обычно это разрешается только системным процессам.</string>
     <string name="permlab_movePackage">Перемещать ресурсы приложения</string>
@@ -441,13 +441,13 @@
     <string name="permlab_receiveBootCompleted">автоматически запускать при загрузке</string>
     <string name="permdesc_receiveBootCompleted">Позволяет приложению запускаться сразу же по завершении загрузки. Это может увеличить время запуска телефона и замедлить его работу в связи с постоянной работой приложения.</string>
     <string name="permlab_broadcastSticky">отправить несрочную рассылку</string>
-    <string name="permdesc_broadcastSticky">Позволяет приложению отправлять несрочные рассылки, которые остались по завершении данной рассылки. Вредоносные приложения могут замедлить работу телефона или сделать ее нестабильной с помощью использования слишком большого объема памяти.</string>
+    <string name="permdesc_broadcastSticky">Позволяет приложению отправлять несрочные рассылки, которые остались по завершении данной рассылки. Вредоносные приложения могут замедлить работу телефона или сделать её нестабильной с помощью использования слишком большого объёма памяти.</string>
     <string name="permlab_readContacts">считывать данные контакта</string>
-    <string name="permdesc_readContacts">Позволяет приложению считывать все данные контактов (адресов), сохраненные в памяти телефона. Вредоносные приложения могут использовать эту возможность для передачи данных посторонним лицам.</string>
+    <string name="permdesc_readContacts">Позволяет приложению считывать все данные контактов (адресов), сохранённые в памяти телефона. Вредоносные приложения могут использовать эту возможность для передачи данных посторонним лицам.</string>
     <string name="permlab_writeContacts">перезаписывать данные контакта</string>
-    <string name="permdesc_writeContacts">Позволяет приложению изменять данные (адрес) контакта, сохраненные в памяти телефона. Вредоносные приложения могут использовать эту возможность для удаления или изменения данных контакта.</string>
+    <string name="permdesc_writeContacts">Позволяет приложению изменять данные (адрес) контакта, сохранённые в памяти телефона. Вредоносные приложения могут использовать эту возможность для удаления или изменения данных контакта.</string>
     <string name="permlab_readCalendar">считывать мероприятия в календаре</string>
-    <string name="permdesc_readCalendar">Позволяет приложению считывать все события календаря, сохраненные на телефоне. Вредоносные приложения могут использовать эту возможность для передачи ваших событий календаря посторонним лицам.</string>
+    <string name="permdesc_readCalendar">Позволяет приложению считывать все события календаря, сохранённые на телефоне. Вредоносные приложения могут использовать эту возможность для передачи ваших событий календаря посторонним лицам.</string>
     <string name="permlab_writeCalendar">добавлять и изменять мероприятия в календаре и отправлять письма гостям</string>
     <string name="permdesc_writeCalendar">Позволяет приложению добавлять и изменять мероприятия в вашем календаре, в котором предусмотрена функция отправления писем гостям. Вредоносные приложения могут воспользоваться этим для удаления или изменения мероприятий в календаре или отправки писем гостям.</string>
     <string name="permlab_accessMockLocation">копировать источники мест для проверки</string>
@@ -475,9 +475,9 @@
     <string name="permlab_reboot">принудительно перезагружать телефон</string>
     <string name="permdesc_reboot">Позволяет приложению принудительно перезагружать телефон.</string>
     <string name="permlab_mount_unmount_filesystems">монтировать и удалять файловые системы</string>
-    <string name="permdesc_mount_unmount_filesystems">Позволяет приложению монтировать и удалять файловые системы съемных носителей.</string>
+    <string name="permdesc_mount_unmount_filesystems">Позволяет приложению монтировать и удалять файловые системы съёмных носителей.</string>
     <string name="permlab_mount_format_filesystems">форматировать внешний накопитель</string>
-    <string name="permdesc_mount_format_filesystems">Позволяет приложению форматировать съемный накопитель.</string>
+    <string name="permdesc_mount_format_filesystems">Позволяет приложению форматировать съёмный накопитель.</string>
     <string name="permlab_asec_access">получать сведения о внутреннем накопителе</string>
     <string name="permdesc_asec_access">Позволяет приложению получать сведения о внутреннем накопителе.</string>
     <string name="permlab_asec_create">создавать внутренний накопитель</string>
@@ -561,11 +561,11 @@
     <string name="permlab_accessWimaxState">получать сведения о состоянии WiMAX</string>
     <string name="permdesc_accessWimaxState">Позволяет приложению получать сведения о состоянии WiMAX.</string>
     <string name="permlab_changeWimaxState">изменять состояние WiMAX</string>
-    <string name="permdesc_changeWimaxState">Позволяет приложению подключаться к сети WiMAX и отключаться от нее.</string>
+    <string name="permdesc_changeWimaxState">Позволяет приложению подключаться к сети WiMAX и отключаться от неё.</string>
     <string name="permlab_bluetoothAdmin">управление Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Позволяет приложению настраивать локальный телефон Bluetooth, обнаруживать и выполнять сопряжение удаленных устройств.</string>
+    <string name="permdesc_bluetoothAdmin">Позволяет приложению настраивать локальный телефон Bluetooth, обнаруживать и выполнять сопряжение удалённых устройств.</string>
     <string name="permlab_bluetooth">создавать подключения Bluetooth</string>
-    <string name="permdesc_bluetooth">Позволяет приложению просматривать конфигурацию локального телефона Bluetooth, создавать подключения с сопряженными устройствами.</string>
+    <string name="permdesc_bluetooth">Позволяет приложению просматривать конфигурацию локального телефона Bluetooth, создавать подключения с сопряжёнными устройствами.</string>
     <string name="permlab_nfc">управлять радиосвязью ближнего действия</string>
     <string name="permdesc_nfc">Позволяет приложению обмениваться данными с метками, картами и считывателями через радиосвязь ближнего действия (NFC).</string>
     <string name="permlab_disableKeyguard">отключать блокировку клавиатуры</string>
@@ -575,7 +575,7 @@
     <string name="permlab_writeSyncSettings">записывать настройки синхронизации</string>
     <string name="permdesc_writeSyncSettings">Позволяет приложению изменять настройки синхронизации, например включение синхронизации Контактов.</string>
     <string name="permlab_readSyncStats">считывать статистику синхронизации</string>
-    <string name="permdesc_readSyncStats">Позволяет приложению считывать статистику синхронизации, например историю произведенных синхронизаций.</string>
+    <string name="permdesc_readSyncStats">Позволяет приложению считывать статистику синхронизации, например историю произведённых синхронизаций.</string>
     <string name="permlab_subscribedFeedsRead">считывать каналы, на которые есть подписка</string>
     <string name="permdesc_subscribedFeedsRead">Позволяет приложению получить сведения о последних синхронизированных каналах.</string>
     <string name="permlab_subscribedFeedsWrite">создавать фиды с возможностью подписки</string>
@@ -593,7 +593,7 @@
     <string name="policylab_limitPassword">Правила выбора паролей</string>
     <string name="policydesc_limitPassword">Контролировать длину и символы при вводе паролей для снятия блокировки экрана.</string>
     <string name="policylab_watchLogin">Отслеживать попытки снятия блокировки экрана</string>
-    <string name="policydesc_watchLogin">Отслеживать количество неверно введенных паролей для снятия блокировки экрана и блокировать телефон либо уничтожить все данные на нем, если было введено слишком много неверных паролей</string>
+    <string name="policydesc_watchLogin">Отслеживать количество неверно введённых паролей для снятия блокировки экрана и блокировать телефон либо уничтожить все данные на нем, если было введено слишком много неверных паролей</string>
     <string name="policylab_resetPassword">Изменять пароль для снятия блокировки экрана</string>
     <string name="policydesc_resetPassword">Изменять пароль для снятия блокировки экрана</string>
     <string name="policylab_forceLock">Блокировать экран</string>
@@ -678,7 +678,7 @@
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
     <string name="keyguard_password_enter_password_code">Введите пароль для разблокировки</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN-код!</string>
-    <string name="keyguard_label_text">Для разблокировки нажмите Меню и 0.</string>
+    <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\" и 0.</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="lockscreen_carrier_default">(Сеть не найдена)</string>
     <string name="lockscreen_screen_locked">Экран заблокирован.</string>
@@ -690,7 +690,7 @@
     <string name="lockscreen_pattern_correct">Правильно!</string>
     <string name="lockscreen_pattern_wrong">Повторите попытку</string>
     <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
-    <string name="lockscreen_charged">Заряжена.</string>
+    <string name="lockscreen_charged">Батарея полностью заряжена.</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство.</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты.</string>
@@ -700,7 +700,7 @@
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки.</string>
-    <string name="lockscreen_sim_locked_message">SIM-карта блокирована.</string>
+    <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Количество неудачных попыток ввода графического ключа разблокировки: %d. 
 
@@ -748,9 +748,9 @@
     <string name="save_password_label">Подтвердите</string>
     <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб.</string>
     <string name="permlab_readHistoryBookmarks">считывать историю и закладки браузера</string>
-    <string name="permdesc_readHistoryBookmarks">Разрешает приложению считывать все URL, посещенные браузером, и все его закладки.</string>
+    <string name="permdesc_readHistoryBookmarks">Разрешает приложению считывать все URL, посещённые браузером, и все его закладки.</string>
     <string name="permlab_writeHistoryBookmarks">записывать историю и закладки браузера</string>
-    <string name="permdesc_writeHistoryBookmarks">Разрешает приложению изменять историю и закладки браузера, сохраненные в вашем телефоне. Вредоносное ПО может пользоваться этим, чтобы стирать или изменять данные вашего браузера.</string>
+    <string name="permdesc_writeHistoryBookmarks">Разрешает приложению изменять историю и закладки браузера, сохранённые в вашем телефоне. Вредоносное ПО может пользоваться этим, чтобы стирать или изменять данные вашего браузера.</string>
     <string name="permlab_setAlarm">настраивать сигнал будильника</string>
     <string name="permdesc_setAlarm">Позволяет настраивать сигнал установленного приложения будильника. Для некоторых приложений будильника эта функция может быть недоступна.</string>
     <string name="permlab_writeGeolocationPermissions">Изменить разрешения браузера для доступа к географическому местоположению</string>
@@ -890,13 +890,13 @@
     <string name="ext_media_checking_notification_message">Проверка ошибок…</string>
     <string name="ext_media_nofs_notification_title">Пустая SD-карта</string>
     <string name="ext_media_nofs_notification_message">SD-карта пуста или использует неподдерживаемую файловую систему.</string>
-    <string name="ext_media_unmountable_notification_title">Поврежденная SD-карта</string>
-    <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать ее.</string>
+    <string name="ext_media_unmountable_notification_title">Повреждённая SD-карта</string>
+    <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать её.</string>
     <string name="ext_media_badremoval_notification_title">SD-карта неожиданно извлечена</string>
-    <string name="ext_media_badremoval_notification_message">Перед извлечением SD-карты отключите ее во избежание потери данных.</string>
+    <string name="ext_media_badremoval_notification_message">Перед извлечением SD-карты отключите её во избежание потери данных.</string>
     <string name="ext_media_safe_unmount_notification_title">Безопасное удаление карты SD-карты</string>
     <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD-карту.</string>
-    <string name="ext_media_nomedia_notification_title">Отсутствует карта SD</string>
+    <string name="ext_media_nomedia_notification_title">Отсутствует SD-карта</string>
     <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую карту.</string>
     <string name="activity_list_empty">Подходящих действий не найдено</string>
     <string name="permlab_pkgUsageStats">обновлять статистику использования компонентов</string>
@@ -962,16 +962,16 @@
     <string name="date_time_day">д</string>
     <string name="date_time_hour">ч</string>
     <string name="date_time_min">м</string>
-    <string name="unlock_tips_desktop">Сдвиньте, чтобы разблокировать</string>
-    <string name="unlock_tips_mms">Сдвиньте, чтобы открыть SMS</string>
-    <string name="unlock_tips_phone">Сдвиньте, чтобы открыть Телефон</string>
+    <string name="unlock_tips_desktop">Сдвиньте вверх, чтобы разблокировать</string>
+    <string name="unlock_tips_mms">Сдвиньте вверх, чтобы открыть SMS</string>
+    <string name="unlock_tips_phone">Сдвиньте вверх, чтобы открыть Телефон</string>
     <string name="missed_call_tips" formatted="false">Пропущенных вызовов: %d</string>
     <string name="unread_sms_tips" formatted="false">Непрочитанных сообщений: %d</string>
     <string name="delete">Удалить</string>
     <string name="slide_left_right_to_delete_an_item">Сдвиньте слева направо для удаления</string>
     <string name="slide_here_to_delete_this_item">Сдвиньте здесь для удаления</string>
     <string name="lock_music_tips">Нажмите \"Меню\" для вызова плеера</string>
-    <string name="call">Позвонить на</string>
+    <string name="call">"Вызов "</string>
     <string name="hang_up">Завершить</string>
     <string name="speaker">Динамик</string>
     <string name="unlock">Разблокировать</string>
@@ -997,7 +997,7 @@
     <string name="recipient_total_str">Получателей: %d</string>
     <string name="system_group_title_all_group">Все группы</string>
     <string name="system_group_title_ungroup">Без группы</string>
-    <string name="system_group_title_common">Избранные</string>
+    <string name="system_group_title_common">Избранное</string>
     <string name="system_group_title_family">Семья</string>
     <string name="system_group_title_friends">Друзья</string>
     <string name="system_group_title_coworkers">Коллеги</string>
@@ -1248,7 +1248,7 @@
     <string name="ringtone_custom_tip">Особые мелодии</string>
     <string name="completed_string">Готово</string>
     <string name="upgrade_tips_title">Обновление системы</string>
-    <string name="upgrade_tips">Ваш телефон готов к установке обновления системы, которое начнется после перезагрузки телефона. Перед началом установки сохраните важную информацию, и убедитесь, что заряд батареи достаточен.</string>
+    <string name="upgrade_tips">Ваш телефон готов к установке обновления системы, которое начнётся после перезагрузки телефона. Перед началом установки сохраните важную информацию, и убедитесь, что заряд батареи достаточен.</string>
     <string name="upgrade_immediately">Обновление</string>
     <string name="upgrade_later">Обновить позже</string>
     <string name="permlab_networkUpgrade">Обновление по сети</string>
@@ -1266,7 +1266,7 @@
     <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
-    <string name="menu_callNumber">Позвонить на %s</string>
+    <string name="menu_callNumber">Вызов %s</string>
     <string name="needPin">SIM-карта заблокирована PIN-кодом. Введите PIN-код для разблокировки.</string>
     <string name="upload_file_too_big">Размер файла превышает ограничение в 15Мб. Выберите другой файл.</string>
     <string name="find_phone_tips_flyme_unknown_error">Неизвестная ошибка!</string>
@@ -1291,11 +1291,11 @@
     <string name="meizu_shop_delete_not_allow_message">Resources in the display machine can not be deleted, thank you!</string>
     <string name="lock_tips_dialing">Набор номера</string>
     <string name="find_phone_tips_unknown_flyme">Аккаунт Flyme</string>
-    <item type="string" name="APKTOOL_DUMMY_0566">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0567">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0568">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0569">false</item>
-    <item type="string" name="APKTOOL_DUMMY_056a">false</item>
     <item type="string" name="APKTOOL_DUMMY_056b">false</item>
     <item type="string" name="APKTOOL_DUMMY_056c">false</item>
+	<item type="string" name="APKTOOL_DUMMY_056d">false</item>
+	<item type="string" name="APKTOOL_DUMMY_056e">false</item>
+	<item type="string" name="APKTOOL_DUMMY_056f">false</item>
+	<item type="string" name="APKTOOL_DUMMY_056g">false</item>
+	<item type="string" name="APKTOOL_DUMMY_056h">false</item>
 </resources>

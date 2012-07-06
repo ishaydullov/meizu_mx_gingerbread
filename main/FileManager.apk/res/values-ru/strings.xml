@@ -44,9 +44,9 @@
     <string name="none_space">Недостаточно места</string>
     <string name="sd_write_error">"Ошибка записи на SD-карту: "</string>
     <string name="copy">Копия</string>
-    <string name="save_title_1_move">"переместить "</string>
-    <string name="save_title_1_copy">"копировать "</string>
-    <string name="save_title_2">" файл(ы) в …"</string>
+    <string name="save_title_1_move">"Переместить "</string>
+    <string name="save_title_1_copy">"Копировать "</string>
+    <string name="save_title_2">" файл(ов) в …"</string>
     <string name="sort_by_name">Сортировать по имени</string>
     <string name="sort_by_size">Сортировать по размеру</string>
     <string name="input_name">Введите имя файла</string>
@@ -56,8 +56,8 @@
     <string name="empty_name">Имя файла не может быть пустым.</string>
     <string name="overwrite">Заменить</string>
     <string name="jump">Пропустить</string>
-    <string name="keep_all_1">Выполнять это действие для всех </string>
-    <string name="keep_all_2">файлов</string>
+    <string name="keep_all_1">"Это же действие для всех "</string>
+    <string name="keep_all_2">" файлов"</string>
     <string name="rename_continue">Продолжить</string>
     <string name="finish">Готово</string>
     <string name="next">Далее</string>
@@ -76,5 +76,5 @@
     <string name="rename_fail">Успешно: %1$d, сбой: %2$d</string>
     <string name="email_fail">Вложения превысили допустимый размер в 50Мб</string>
     <string name="storage_size">Всего: %1$s, Доступно: %2$s</string>
-    <string name="unmount_sdcard">Включен USB-накопитель</string>
+    <string name="unmount_sdcard">Включен режим USB-накопителя</string>
 </resources>

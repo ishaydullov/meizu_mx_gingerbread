@@ -85,7 +85,7 @@
     <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
     <string name="pref_camera_coloreffect_entry_redtint">Красный оттенок</string>
     <string name="pref_camera_coloreffect_entry_bluetint">Синий оттенок</string>
-    <string name="pref_camera_coloreffect_entry_greentint">Зеленый оттенок</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Зелёный оттенок</string>
     <string name="pref_camera_scenemode_default">Авто</string>
     <string name="pref_camera_scenemode_title">Сцена</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
@@ -96,7 +96,7 @@
     <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
     <string name="pref_camera_scenemode_entry_person">Портрет</string>
     <string name="pref_camera_scenemode_entry_sports_hold">Низкая освещенность</string>
-    <string name="pref_camera_quickcapture_title">Быстрая съемка</string>
+    <string name="pref_camera_quickcapture_title">Быстрая съёмка</string>
     <string name="pref_camera_quickcapture_default">Выкл.</string>
     <string name="pref_camera_quickcapture_entry_on">Вкл.</string>
     <string name="pref_camera_quickcapture_entry_off">Выкл.</string>
@@ -106,7 +106,6 @@
     <string name="details_ok">OK</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="spaceIsLow_content_mx">Место в памяти телефона заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
-
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
     <string name="zoom_control_title">Масштаб</string>
     <string name="switch_to_camera_lable">Переключить на фото</string>
@@ -119,7 +118,7 @@
     <string name="panoramic_photo_processing">Обработка фотографии…</string>
     <string name="mutil_photo_processing">Обработка фотографии…</string>
     <string name="hdmi_cannot_used_camera">Выйдите из режима HDMI</string>
-    <string name="take_photo_fail">Сбой съемки</string>
-    <string name="press_the_shttuer">Нажмите затвор для начала съемки улыбающихся лиц</string>
+    <string name="take_photo_fail">Сбой съёмки</string>
+    <string name="press_the_shttuer">Нажмите затвор для начала съёмки улыбающихся лиц</string>
     <string name="press_panoram_mode_tip">Нажмите затвор и медленно двигайте камеру в одном направлении</string>
 </resources>

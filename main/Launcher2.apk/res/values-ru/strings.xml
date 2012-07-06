@@ -28,7 +28,7 @@
     <string name="out_of_space">На этом экране нет свободного места.</string>
     <string name="out_of_space_shortcut">На этом экране нет свободного места.</string>
     <string name="shortcut_installed">Ярлык \"%s\" создан</string>
-    <string name="shortcut_uninstalled">Ярлык \"%s\" удален.</string>
+    <string name="shortcut_uninstalled">Ярлык \"%s\" удалён.</string>
     <string name="shortcut_duplicate">Ярлык \"%s\" уже существует.</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="title_select_application">Выбор приложения</string>
@@ -70,7 +70,7 @@
     <string name="applications_settings_header">Настройки приложения</string>
     <string name="install_applications">Неизвестные источники</string>
     <string name="install_unknown_applications">Разрешить установку приложений, полученных не из Маркета</string>
-    <string name="install_all_warning">Телефон и личные сведения более уязвимы к атакам приложений из неизвестных источников. Вы подтверждаете, что берете на себя всю ответственность в случае повреждения телефона и потери данных при использовании этих приложений.</string>
+    <string name="install_all_warning">Телефон и личные сведения более уязвимы к атакам приложений из неизвестных источников. Вы подтверждаете, что берёте на себя всю ответственность в случае повреждения телефона и потери данных при использовании этих приложений.</string>
     <string name="application_info_label">Сведения о приложении</string>
     <string name="storage_label">Память</string>
     <string name="auto_launch_label">Запускать по умолчанию</string>
@@ -99,7 +99,7 @@
     <string name="filter_apps_third_party">Сторонние</string>
     <string name="filter_apps_running">Работающие</string>
     <string name="filter_apps_onsdcard">На SD-карте</string>
-    <string name="loading">Идет загрузка…</string>
+    <string name="loading">Идёт загрузка…</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="clear_data_dlg_title">Удалить</string>
     <string name="clear_data_dlg_text">Все данные этой программы будут удалены навсегда, включая все файлы, базы данных, настройки, аккаунты и прочее</string>
@@ -147,7 +147,7 @@
     <string name="uninstall">Удалить</string>
     <string name="no_uninstall">Удаление невозможно</string>
     <string name="move">Удалить</string>
-    <string name="no_move">Не удалось переместить приложение</string>
+    <string name="no_move">Удаление невозможно</string>
     <string name="uninstall_success">Удаление завершено</string>
     <string name="uninstall_fail">Ошибка удаления</string>
     <string name="wo_3g">Wo 3G</string>
